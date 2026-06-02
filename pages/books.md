@@ -24,7 +24,7 @@ Practical guidance covering welding inspection, fabrication activities, document
 
 ### The Piping Inspector
 
-(Add cover image later)
+![Piping Inspector Cover](/toolbox-to-table/assets/book-covers/piping-inspector-cover.jpg)
 
 Practical guidance covering piping fabrication, hydrotesting, installation, fit-up, welding, documentation, and inspection activities.
 
@@ -32,8 +32,6 @@ Practical guidance covering piping fabrication, hydrotesting, installation, fit-
 
 ### The Pressure Vessel Inspector
 
-(Add cover image later)
+![Pressure Vessel Inspector Cover](/toolbox-to-table/assets/book-covers/pressure-vessel-inspector-cover.jpg)
 
 Practical guidance covering vessel fabrication, code requirements, inspection hold points, documentation, testing, and field verification activities.
-
----
