@@ -74,7 +74,6 @@ The Welding Inspector is designed for inspectors, welders, QA/QC personnel, supe
 # The Pressure Vessel Inspector
 
 ![Pressure Vessel Inspector Cover](/toolbox-to-table/assets/book-covers/pressure-vessel-inspector-cover.jpg)
-
 ## Description
 
 The Pressure Vessel Inspector provides practical guidance for inspectors and quality professionals involved in the fabrication, testing, and documentation of pressure-retaining equipment. The guide covers inspection planning, material verification, welding activities, dimensional checks, code awareness, pressure testing, and turnover documentation. Practical references, lessons learned, and inspection checklists help inspectors maintain compliance throughout the manufacturing process.
