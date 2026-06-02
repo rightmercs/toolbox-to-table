@@ -1,1 +1,9 @@
+title: Toolbox to Table
+description: Bridging Field Experience and Practical Knowledge
 theme: minima
+
+header_pages:
+  - pages/books.md
+  - field-lessons/how-is-this-weld-acceptable.md
+  - training/wps-interpretation.md
+  - pages/about.md
