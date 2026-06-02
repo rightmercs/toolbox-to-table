@@ -1,1 +1,0 @@
-The Structural Steel Inspector
