@@ -81,16 +81,16 @@ The Pressure Vessel Inspector provides practical guidance for inspectors and qua
 
 ## Key Topics Covered
 
-* Vessel fabrication
-* Material traceability
-* Welding oversight
-* Dimensional verification
-* Pressure testing
-* Documentation review
+- Vessel fabrication
+- Material traceability
+- Welding oversight
+- Dimensional verification
+- Pressure testing
+- Documentation review
 
 ### Available on Amazon
 
-[View Paperback on Amazon](https://www.amazon.com/gp/product/B0H1MJYLGQ)
+[View Paperback on Amazon](https://www.amazon.com/gp/product/B0H1MC7TQR)
 
 ---
 
