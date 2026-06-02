@@ -73,7 +73,7 @@ The Welding Inspector is designed for inspectors, welders, QA/QC personnel, supe
 
 # The Pressure Vessel Inspector
 
-![Pressure Vessel Inspector Cover](/toolbox-to-table/assets/book-covers/pressure-vessel-inspector-cover.jpg)
+pressure-vessel-inspector-cover.jpg
 
 ## Description
 
