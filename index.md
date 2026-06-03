@@ -8,8 +8,8 @@ Toolbox to Table was created to share practical industrial knowledge gained thro
 
 ### Featured Resources
 
-- - [The Inspector's Handbook Series](/toolbox-to-table/books/)
-- Today in the Field
+- [The Inspector's Handbook Series](/toolbox-to-table/books/)
+- [Today in the Field](/toolbox-to-table/today-in-the-field/)
 - Lessons Learned
 - Future Training Modules
 
