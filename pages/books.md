@@ -1,32 +1,29 @@
 ---
+
 layout: page
-title: The Inspector's Handbook Series
-permalink: /books/
----
+title: The Welding Inspector
+permalink: /books/welding-inspector/
+------------------------------------
 
-# The Inspector's Handbook Series
+# The Welding Inspector
 
-Built for the field. Written for the professional.
+![Welding Inspector Cover](/toolbox-to-table/assets/book-covers/welding-inspector-cover.jpg)
 
-The Inspector's Handbook Series is a growing library of practical field guides developed to support inspectors, welders, fitters, QA/QC personnel, supervisors, technicians, and industrial professionals.
+## Description
 
-## Available Titles
+The Welding Inspector is designed for inspectors, welders, QA/QC personnel, supervisors, and fabrication professionals involved in welding operations and quality verification activities. The guide provides practical field guidance covering inspection planning, fit-up verification, welding processes, visual inspection techniques, documentation practices, and workflow considerations commonly encountered during fabrication and construction projects. Built as a pocket-sized field reference, it helps professionals navigate welding activities more effectively while improving consistency, confidence, and understanding of quality requirements.
 
-- [The General Fabrication Shop Inspector](/toolbox-to-table/books/general-fabrication-shop-inspector/)
-- [The Welding Inspector](/toolbox-to-table/books/welding-inspector/)
-- [The Pressure Vessel Inspector](/toolbox-to-table/books/pressure-vessel-inspector/)
-- [The Piping Inspector](/toolbox-to-table/books/piping-inspector/)
-- [The Heat Exchanger Inspector](/toolbox-to-table/books/heat-exchanger-inspector/)
-- [The Boiler Inspector](/toolbox-to-table/books/boiler-inspector/)
-- [The Structural Steel Inspector](/toolbox-to-table/books/structural-steel-inspector/)
-- [The Pipeline Inspector](/toolbox-to-table/books/pipeline-inspector/)
-- [The Turnaround Inspector](/toolbox-to-table/books/turnaround-inspector/)
-- [The NDE Inspector](/toolbox-to-table/books/nde-inspector/)
-- [The Coating Inspector](/toolbox-to-table/books/coating-inspector/)
-- [The Fireproofing & Refractory Inspector](/toolbox-to-table/books/fireproofing-refractory-inspector/)
-- [The Tank Inspector](/toolbox-to-table/books/tank-inspector/)
-- [The Rotating Equipment Inspector](/toolbox-to-table/books/rotating-equipment-inspector/)
-- [The Crane & Rigging Inspector](/toolbox-to-table/books/crane-rigging-inspector/)
-- [The Valve Inspector](/toolbox-to-table/books/valve-inspector/)
-- [The Instrumentation & Electrical Inspector](/toolbox-to-table/books/instrumentation-electrical-inspector/)
-- [The QA/QC Documentation and Records Inspector](/toolbox-to-table/books/qaqc-documentation-records-inspector/)
+## Key Topics Covered
+
+* Inspector roles and responsibilities
+* Welding processes and terminology
+* Fit-up and joint preparation
+* Visual inspection techniques
+* Weld discontinuities and defects
+* Documentation and reporting
+* Inspection workflow
+* Quick-reference materials
+
+### Available on Amazon
+
+[View Paperback on Amazon](https://www.amazon.com/gp/product/B0H1MGP4J9)
