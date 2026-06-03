@@ -27,3 +27,7 @@ The Pressure Vessel Inspector provides practical guidance for inspectors and qua
 ### Available on Amazon
 
 [View Paperback on Amazon](https://www.amazon.com/gp/product/B0H1MJYLGQ)
+
+---
+
+[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
