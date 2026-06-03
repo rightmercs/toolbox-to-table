@@ -4,6 +4,7 @@ theme: minima
 
 header_pages:
   - pages/books.md
-  - field-lessons/how-is-this-weld-acceptable.md
-  - training/wps-interpretation.md
+  - pages/today-in-the-field.md
+  - pages/training.md
   - pages/about.md
+  - pages/contact.md
