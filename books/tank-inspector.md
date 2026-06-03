@@ -28,3 +28,6 @@ The Tank Inspector provides practical guidance for inspectors involved in the fa
 
 [View Paperback on Amazon](https://www.amazon.com/gp/product/B0H25LD1LC)
 
+---
+
+[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
