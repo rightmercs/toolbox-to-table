@@ -28,3 +28,6 @@ The Coating Inspector provides practical field guidance for inspectors involved 
 
 [View Paperback on Amazon](https://www.amazon.com/gp/product/B0H1GZFWMG)
 
+---
+
+[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
