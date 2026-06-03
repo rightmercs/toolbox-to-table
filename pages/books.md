@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The Welding Inspector
-permalink: /books/welding-inspector/
+title: The Inspector's Handbook Series
+permalink: /books/
 ---
 
 # The Welding Inspector
