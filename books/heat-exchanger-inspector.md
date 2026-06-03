@@ -3,7 +3,7 @@
 layout: page
 title: The Heat Exchanger Inspector
 permalink: /books/heat-exchanger-inspector/
--------------------------------------------
+---
 
 # The Heat Exchanger Inspector
 
