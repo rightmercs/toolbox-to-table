@@ -27,3 +27,6 @@ The General Fabrication Shop Inspector is designed for inspectors, QA/QC personn
 
 [View Paperback on Amazon](https://www.amazon.com/gp/product/B0H1M8JG9X)
 
+---
+
+[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
