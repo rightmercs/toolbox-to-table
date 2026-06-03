@@ -28,3 +28,6 @@ The Valve Inspector provides practical guidance for inspectors involved in the m
 
 [View Paperback on Amazon](https://www.amazon.com/gp/product/B0H1MF8T5J)
 
+---
+
+[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
