@@ -28,3 +28,6 @@ The Structural Steel Inspector provides practical guidance for inspectors and qu
 
 [View Paperback on Amazon](https://www.amazon.com/gp/product/B0H1MBSLYW)
 
+---
+
+[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
