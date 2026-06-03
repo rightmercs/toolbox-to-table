@@ -26,3 +26,7 @@ The Welding Inspector is designed for inspectors, welders, QA/QC personnel, supe
 ### Available on Amazon
 
 [View Paperback on Amazon](https://www.amazon.com/gp/product/B0H1MGP4J9)
+
+---
+
+[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
