@@ -1,9 +1,8 @@
 ---
-
 layout: page
 title: The General Fabrication Shop Inspector
 permalink: /books/general-fabrication-shop-inspector/
------------------------------------------------------
+---
 
 # The General Fabrication Shop Inspector
 
