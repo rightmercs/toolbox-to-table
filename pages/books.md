@@ -1,11 +1,10 @@
 ---
-
 layout: page
 title: The Inspector's Handbook Series
 permalink: /books/
-------------------
+---
 
-# The Inspector's Handbook Series
+# The Inspector's Handbook Series**
 
 Built for the field. Written for the professional.
 
