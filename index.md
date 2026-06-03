@@ -17,6 +17,43 @@ Toolbox to Table was created to share practical industrial knowledge gained thro
 
 ## The Inspector's Handbook Series
 
+### Featured Guides
+
+#### [The Welding Inspector](/toolbox-to-table/books/welding-inspector/)
+
+![The Welding Inspector](/toolbox-to-table/assets/book-covers/welding-inspector-cover.jpg)
+
+Practical field guidance covering welding inspection, fit-up verification, visual inspection techniques, documentation practices, and workflow considerations.
+
+---
+
+#### [The Pressure Vessel Inspector](/toolbox-to-table/books/pressure-vessel-inspector/)
+
+![The Pressure Vessel Inspector](/toolbox-to-table/assets/book-covers/pressure-vessel-inspector-cover.jpg)
+
+Practical guidance for inspectors involved in the fabrication, testing, documentation, and verification of pressure-retaining equipment.
+
+---
+
+#### [The Coating Inspector](/toolbox-to-table/books/coating-inspector/)
+
+![The Coating Inspector](/toolbox-to-table/assets/book-covers/coating-inspector-cover.jpg)
+
+Field-focused guidance covering surface preparation, environmental monitoring, coating application, inspection techniques, and quality verification.
+
+---
+
+#### [The NDE Inspector](/toolbox-to-table/books/nde-inspector/)
+
+![The NDE Inspector](/toolbox-to-table/assets/book-covers/nde-inspector-cover.jpg)
+
+Practical guidance covering common non-destructive examination methods, documentation review, procedural awareness, and inspection oversight.
+
+### Explore the Complete Series
+
+[View All 18 Guides](/toolbox-to-table/books/)
+
+
 A complete library of 18 pocket-sized industrial field guides built for inspectors, welders, fitters, QA/QC personnel, supervisors, technicians, and industrial professionals.
 
 [Explore the Series](/toolbox-to-table/books/)
