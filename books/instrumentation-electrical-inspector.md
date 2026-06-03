@@ -28,3 +28,6 @@ The Instrumentation & Electrical Inspector provides practical field guidance for
 
 [View Paperback on Amazon](https://www.amazon.com/gp/product/B0H25X8PB7)
 
+---
+
+[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
