@@ -28,3 +28,6 @@ The Pipeline Inspector provides practical field guidance for professionals invol
 
 [View Paperback on Amazon](https://www.amazon.com/gp/product/B0H1WGFN1Z)
 
+---
+
+[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
