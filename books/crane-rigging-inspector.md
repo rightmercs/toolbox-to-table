@@ -28,3 +28,6 @@ The Crane & Rigging Inspector provides practical guidance for professionals resp
 
 [View Paperback on Amazon](https://www.amazon.com/gp/product/B0H25SPR68)
 
+---
+
+[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
