@@ -28,3 +28,6 @@ The QA/QC Documentation and Records Inspector provides practical guidance for pr
 
 [View Paperback on Amazon](https://www.amazon.com/gp/product/B0H25VWP18)
 
+---
+
+[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
