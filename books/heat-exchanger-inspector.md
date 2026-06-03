@@ -28,3 +28,6 @@ The Heat Exchanger Inspector is designed to support inspectors and quality perso
 
 [View Paperback on Amazon](https://www.amazon.com/gp/product/B0H1MDV4R8)
 
+---
+
+[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
