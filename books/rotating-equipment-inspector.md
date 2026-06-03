@@ -28,3 +28,6 @@ The Rotating Equipment Inspector provides practical guidance for inspectors and 
 
 [View Paperback on Amazon](https://www.amazon.com/gp/product/B0H25Y8D1J)
 
+---
+
+[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
