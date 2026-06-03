@@ -1,13 +1,17 @@
 ---
 layout: page
-title: The Inspector's Handbook Series
-permalink: /books/
+title: The Welding Inspector
+permalink: /books/welding-inspector/
 ---
 
-# The Inspector's Handbook Series
+# The Welding Inspector
 
-Built for the field. Written for the professional.
+![Welding Inspector Cover](/toolbox-to-table/assets/book-covers/welding-inspector-cover.jpg)
 
-## Available Titles
+## Description
 
-- [The Welding Inspector](/toolbox-to-table/books/welding-inspector/)
+The Welding Inspector is designed for inspectors, welders, QA/QC personnel, supervisors, and fabrication professionals involved in welding operations and quality verification activities.
+
+### Available on Amazon
+
+[View Paperback on Amazon](https://www.amazon.com/gp/product/B0H1MGP4J9)
