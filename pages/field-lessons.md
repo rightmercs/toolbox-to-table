@@ -1,4 +1,3 @@
-
 ---
 
 layout: page
@@ -14,7 +13,7 @@ Field Lessons are practical observations, inspection challenges, troubleshooting
 
 The goal is simple:
 
-Share practical knowledge that helps professionals avoid mistakes, improve understanding, and perform work more effectively.
+**Share practical knowledge that helps professionals avoid mistakes, improve understanding, and perform work more effectively.**
 
 ## Available Lessons
 
@@ -22,4 +21,14 @@ Share practical knowledge that helps professionals avoid mistakes, improve under
 
 A common inspection situation where weld gauge measurements alone did not tell the complete story.
 
-More lessons coming soon.
+### Hydrotest Pressure Increased During Hold Time
+
+*Coming Soon*
+
+### Weld Gauge Readings Can Be Misleading
+
+*Coming Soon*
+
+### Surface Profile Was Correct But Coating Failed
+
+*Coming Soon*
