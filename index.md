@@ -60,7 +60,7 @@ A complete library of 18 pocket-sized industrial field guides built for inspecto
 
 ---
 
-## Today in the Field
+## Field Lessons
 
 Real situations. Real lessons. Real-world application.
 
