@@ -60,20 +60,13 @@ A complete library of 18 pocket-sized industrial field guides built for inspecto
 
 ---
 
-## Field Lessons
+## Latest Field Lesson
 
-Real situations. Real lessons. Real-world application.
+### [How Is This Weld Acceptable?](/toolbox-to-table/field-lessons/how-is-this-weld-acceptable/)
 
-These field lessons are drawn from actual experiences encountered during fabrication, construction, maintenance, inspection, testing, and commissioning activities.
+A common inspection situation where weld gauge measurements alone did not tell the complete story. Understanding joint geometry, measurement techniques, and acceptance criteria is critical before making a final determination.
 
-Coming soon:
-
-- How Is This Weld Acceptable?
-- Hydrotest Pressure Increased During Hold Time
-- Surface Profile Was Correct But Coating Failed
-- Weld Gauge Readings Can Be Misleading
-
-[Visit Today in the Field](/toolbox-to-table/today-in-the-field/)
+[Read the Lesson →](/toolbox-to-table/field-lessons/how-is-this-weld-acceptable/)
 
 ---
 
