@@ -1,19 +1,30 @@
+---
+layout: page
+title: How Is This Weld Acceptable?
+permalink: /field-lessons/how-is-this-weld-acceptable/
+---
+
 # How Is This Weld Acceptable?
 
-A fillet weld was measured and initially appeared undersized when checked with a weld gauge.
+A fillet weld size check can look simple until the joint condition tells a different story.
 
-However, closer evaluation revealed that distortion of the base material had created a slight depression in the surrounding metal. When the weld size was evaluated relative to the actual joint geometry, the effective weld size met the specified requirement.
+During inspection, this weld initially appeared undersized when checked with a weld gauge. After closer review, localized distortion and slight base metal sink-in changed the effective joint geometry. When evaluated correctly, the weld size met the required condition.
 
-## Lesson Learned
+## The Lesson
 
-Measurements alone do not tell the entire story.
+Inspection is not just reading a gauge.
 
-Inspectors must understand:
+The inspector must understand:
+
 - Joint geometry
-- Distortion effects
-- Proper gauge placement
+- Base metal distortion
+- Gauge placement
+- Weld size requirements
 - Applicable acceptance criteria
+- When a measurement does not tell the full story
 
-Understanding the condition is often more important than simply reading a gauge.
+A weld can appear unacceptable at first glance, but the full condition must be evaluated before making the final call.
 
-Field experience matters.
+---
+
+[← Back to Field Lessons](/toolbox-to-table/field-lessons/)
