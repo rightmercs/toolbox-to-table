@@ -1,29 +1,51 @@
 ---
+
 layout: page
 title: How Is This Weld Acceptable?
 permalink: /field-lessons/how-is-this-weld-acceptable/
----
+------------------------------------------------------
 
 # How Is This Weld Acceptable?
 
-A fillet weld size check can look simple until the joint condition tells a different story.
+## The Situation
 
-During inspection, this weld initially appeared undersized when checked with a weld gauge. After closer review, localized distortion and slight base metal sink-in changed the effective joint geometry. When evaluated correctly, the weld size met the required condition.
+During inspection, a fillet weld initially appeared undersized when checked with a weld gauge. Based on the first measurement, the weld seemed to fall below the required size and could easily have been identified as a reject.
+
+## What We Observed
+
+A closer examination revealed that the surrounding joint geometry was influencing the gauge reading. Localized distortion and slight base metal sink-in changed the apparent relationship between the weld and the base material.
+
+While the gauge reading suggested a deficiency, the actual weld size and effective throat condition told a different story.
+
+## Why It Appeared Incorrect
+
+Many inspectors naturally rely on weld gauges for quick verification. However, gauges only provide useful information when they are used correctly and when the inspector understands the condition being measured.
+
+Factors that can influence measurements include:
+
+* Joint geometry
+* Distortion
+* Base metal condition
+* Weld profile
+* Gauge placement
+* Surface irregularities
 
 ## The Lesson
 
-Inspection is not just reading a gauge.
+Inspection is not simply reading a gauge.
 
-The inspector must understand:
+A qualified inspector must evaluate the complete condition before making an acceptance decision. Measurements are important, but they are only one part of the evaluation process.
 
-- Joint geometry
-- Base metal distortion
-- Gauge placement
-- Weld size requirements
-- Applicable acceptance criteria
-- When a measurement does not tell the full story
+Understanding what is actually being measured is often more important than the number shown on the gauge.
 
-A weld can appear unacceptable at first glance, but the full condition must be evaluated before making the final call.
+## Key Takeaways
+
+* Never rely solely on a single gauge reading.
+* Evaluate the entire joint condition.
+* Consider distortion and geometry.
+* Understand the acceptance criteria before making a determination.
+* Use inspection tools correctly and consistently.
+* Experience and judgment remain critical inspection skills.
 
 ---
 
