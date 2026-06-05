@@ -59,7 +59,6 @@ A complete library of 18 pocket-sized industrial field guides built for inspecto
 [Explore the Series](/toolbox-to-table/books/)
 
 ---
-
 ## Latest Field Lesson
 
 ### [How Is This Weld Acceptable?](/toolbox-to-table/field-lessons/how-is-this-weld-acceptable/)
