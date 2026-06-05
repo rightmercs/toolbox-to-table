@@ -3,7 +3,7 @@
 layout: page
 title: How Is This Weld Acceptable?
 permalink: /field-lessons/how-is-this-weld-acceptable/
----
+------------------------------------------------------
 
 # How Is This Weld Acceptable?
 
