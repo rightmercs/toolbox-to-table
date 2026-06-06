@@ -1,3 +1,8 @@
+---
+layout: page
+title: Toolbox to Table
+---
+
 # Bridging Field Experience and Practical Knowledge
 
 **Built for the field. Powered by experience.**
