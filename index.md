@@ -23,6 +23,12 @@ Built for inspectors, welders, fitters, QA/QC personnel, supervisors, technician
 
 <h3>Featured Guides from the Series</h3>
 
+### [The Weld Was X-Rayed. The Requirement Wasn't Met.](/toolbox-to-table/field-lessons/the-weld-was-x-rayed-the-requirement-wasnt-met/)
+
+A vendor completed radiographic testing, generated a report, and documented the results correctly. The problem was that the selected weld did not satisfy the intended examination requirement.
+
+[Read the Lesson →](/toolbox-to-table/field-lessons/the-weld-was-x-rayed-the-requirement-wasnt-met/)
+
 <p align="center">
 
 <a href="/toolbox-to-table/books/general-fabrication-shop-inspector/">
