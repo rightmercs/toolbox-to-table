@@ -4,7 +4,7 @@ theme: minima
 
 header_pages:
   - pages/books.md
-  - pages/today-in-the-field.md
+  - pages/field-lessons.md
   - pages/training.md
   - pages/about.md
   - pages/contact.md
