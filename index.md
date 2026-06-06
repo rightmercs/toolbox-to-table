@@ -3,7 +3,9 @@ layout: home
 title: Toolbox to Table
 ---
 
-# Toolbox to Table
+# Bridging Field Experience and Practical Knowledge
+
+**Built for the field. Powered by experience.**
 
 ## Bridging Field Experience and Practical Knowledge
 
@@ -15,7 +17,9 @@ Toolbox to Table was created to share practical industrial knowledge gained thro
 
 ---
 
-## The Inspector's Handbook Series
+# Bridging Field Experience and Practical Knowledge
+
+**Built for the field. Powered by experience.**
 
 ### Featured Guides
 
