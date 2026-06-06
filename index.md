@@ -19,26 +19,31 @@ Toolbox to Table was created to share practical industrial knowledge gained thro
 
 Practical references developed for inspectors, welders, fitters, QA/QC personnel, supervisors, technicians, and industrial professionals.
 
-### Featured Guides
+<h3>Featured Guides</h3>
 
-#### [The Welding Inspector](/toolbox-to-table/books/welding-inspector/)
+<p align="center">
+<a href="/toolbox-to-table/books/welding-inspector/">
+<img src="/toolbox-to-table/assets/book-covers/welding-inspector-cover.jpg" width="175">
+</a>
 
-![The Welding Inspector](/toolbox-to-table/assets/book-covers/welding-inspector-cover.jpg)
+<a href="/toolbox-to-table/books/pressure-vessel-inspector/">
+<img src="/toolbox-to-table/assets/book-covers/pressure-vessel-inspector-cover.jpg" width="175">
+</a>
+</p>
 
-#### [The Pressure Vessel Inspector](/toolbox-to-table/books/pressure-vessel-inspector/)
+<p align="center">
+<a href="/toolbox-to-table/books/coating-inspector/">
+<img src="/toolbox-to-table/assets/book-covers/coating-inspector-cover.jpg" width="175">
+</a>
 
-![The Pressure Vessel Inspector](/toolbox-to-table/assets/book-covers/pressure-vessel-inspector-cover.jpg)
+<a href="/toolbox-to-table/books/nde-inspector/">
+<img src="/toolbox-to-table/assets/book-covers/nde-inspector-cover.jpg" width="175">
+</a>
+</p>
 
-#### [The Coating Inspector](/toolbox-to-table/books/coating-inspector/)
-
-![The Coating Inspector](/toolbox-to-table/assets/book-covers/coating-inspector-cover.jpg)
-
-#### [The NDE Inspector](/toolbox-to-table/books/nde-inspector/)
-
-![The NDE Inspector](/toolbox-to-table/assets/book-covers/nde-inspector-cover.jpg)
+### Explore the Complete Series
 
 [View All 18 Guides](/toolbox-to-table/books/)
-
 ---
 
 ## Latest Field Lesson
