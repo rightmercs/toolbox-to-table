@@ -22,23 +22,29 @@ Practical references developed for inspectors, welders, fitters, QA/QC personnel
 <h3>Featured Guides</h3>
 
 <p align="center">
+
 <a href="/toolbox-to-table/books/welding-inspector/">
-<img src="/toolbox-to-table/assets/book-covers/welding-inspector-cover.jpg" width="175">
+<img src="/toolbox-to-table/assets/book-covers/welding-inspector-cover.jpg" width="200">
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="/toolbox-to-table/books/pressure-vessel-inspector/">
-<img src="/toolbox-to-table/assets/book-covers/pressure-vessel-inspector-cover.jpg" width="175">
+<img src="/toolbox-to-table/assets/book-covers/pressure-vessel-inspector-cover.jpg" width="200">
 </a>
-</p>
 
-<p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="/toolbox-to-table/books/coating-inspector/">
-<img src="/toolbox-to-table/assets/book-covers/coating-inspector-cover.jpg" width="175">
+<img src="/toolbox-to-table/assets/book-covers/coating-inspector-cover.jpg" width="200">
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="/toolbox-to-table/books/nde-inspector/">
-<img src="/toolbox-to-table/assets/book-covers/nde-inspector-cover.jpg" width="175">
+<img src="/toolbox-to-table/assets/book-covers/nde-inspector-cover.jpg" width="200">
 </a>
+
 </p>
 
 ### Explore the Complete Series
