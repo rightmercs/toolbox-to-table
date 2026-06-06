@@ -1,25 +1,20 @@
----
-layout: home
-title: Toolbox to Table
----
-
 # Bridging Field Experience and Practical Knowledge
 
 **Built for the field. Powered by experience.**
 
-## Bridging Field Experience and Practical Knowledge
+Toolbox to Table was created to share practical industrial knowledge gained through real-world experience.
 
-**Built for the field. Powered by experience.**
-
-Toolbox to Table was created to share practical industrial knowledge gained through real-world experience. Through field lessons, technical resources, training materials, and The Inspector's Handbook Series, the mission is simple:
+Through field lessons, technical resources, training materials, and The Inspector's Handbook Series, the mission is simple:
 
 **Help professionals perform work correctly, safely, and efficiently.**
 
 ---
 
-# Bridging Field Experience and Practical Knowledge
+# The Inspector's Handbook Series
 
-**Built for the field. Powered by experience.**
+### 18 Published Field Guides
+
+Practical pocket-sized references developed for inspectors, welders, fitters, QA/QC personnel, supervisors, technicians, and industrial professionals.
 
 ### Featured Guides
 
