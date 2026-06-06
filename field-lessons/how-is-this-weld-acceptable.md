@@ -21,7 +21,7 @@ The initial gauge reading suggested the weld did not achieve the required leg si
 
 ## What We Observed
 
-A closer evaluation showed that the base material adjacent to the weld had experienced localized distortion and sink-in. The apparent relationship between the gauge and the weld profile created the impression that the weld was smaller than it actually was.
+A closer evaluation showed that the base material adjacent to the weld had experienced localized distortion caused by the weld contacting while cooling. The apparent relationship between the gauge and the weld profile created the impression that the weld was smaller than it actually was.
 
 The gauge was providing useful information, but the result could not be interpreted correctly without understanding the condition of the surrounding material.
 
