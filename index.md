@@ -19,7 +19,7 @@ Toolbox to Table was created to share practical industrial knowledge gained thro
 
 Practical references developed for inspectors, welders, fitters, QA/QC personnel, supervisors, technicians, and industrial professionals.
 
-<h3>Featured Guides</h3>
+<h3>Featured Guides from the Series</h3>
 
 <p align="center">
 
