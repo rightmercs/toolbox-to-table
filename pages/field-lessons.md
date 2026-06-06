@@ -1,9 +1,8 @@
 ---
-
 layout: page
 title: Field Lessons
 permalink: /field-lessons/
---------------------------
+---
 
 # Field Lessons
 
