@@ -1,117 +1,136 @@
 ---
-layout: page
-title: Toolbox to Table
+layout: platform
+title: Professional Inspection Tools Built for the Field
+description: Practical digital tools that help industrial inspectors work faster, document better, and make more confident decisions.
 ---
 
-# Bridging Field Experience and Practical Knowledge
+<section class="hero">
+  <div class="hero-grid shell">
+    <div class="hero-copy">
+      <p class="eyebrow"><span></span> Field-built. Professionally developed.</p>
+      <h1>Professional inspection tools <em>built for the field.</em></h1>
+      <p class="hero-lead">Practical digital tools that help inspectors work faster, document better, and make more confident decisions.</p>
+      <div class="button-row">
+        <a class="button button--primary" href="#featured-tools">Shop professional tools</a>
+        <a class="button button--secondary" href="{{ '/pages/books/' | relative_url }}">Browse handbooks</a>
+      </div>
+      <div class="trust-line" aria-label="Product principles">
+        <span>Practical workflows</span>
+        <span>Original content</span>
+        <span>Version controlled</span>
+      </div>
+    </div>
+    <div class="hero-panel" aria-label="Valve test tool preview">
+      <div class="panel-top">
+        <span class="status-dot"></span>
+        <span>Valve Pressure Testing Tool</span>
+        <span>PRO</span>
+      </div>
+      <div class="gauge">
+        <div class="gauge-face">
+          <span class="gauge-value">2,250</span>
+          <span class="gauge-unit">PSIG</span>
+          <span class="gauge-label">Hydro shell</span>
+        </div>
+      </div>
+      <div class="panel-readouts">
+        <div><small>High-pressure seat</small><strong>1,650 psi</strong></div>
+        <div><small>Minimum hold</small><strong>60 sec</strong></div>
+        <div><small>Standard</small><strong>API 598</strong></div>
+      </div>
+      <p class="panel-note">Example: NPS 4 · Class 600 · WC6</p>
+    </div>
+  </div>
+</section>
 
-**Built for the field. Powered by experience.**
+<section class="section shell" id="featured-tools">
+  <div class="section-heading">
+    <div>
+      <p class="eyebrow"><span></span> Featured tools</p>
+      <h2>Turn field requirements into clear decisions.</h2>
+    </div>
+    <p>Purpose-built resources for the work inspectors perform every day.</p>
+  </div>
+  <div class="product-grid">
+    {% include product-card.html
+      featured=true
+      visual="valve"
+      kicker="API 598"
+      short_title="Valve Test"
+      type="Excel-based professional tool"
+      status="Flagship"
+      title="Valve Pressure Testing Tool"
+      description="Calculate test pressures, hold times, leakage criteria, and document valve testing in one focused workflow."
+      feature_1="Quick pressure lookup"
+      feature_2="Hold times and leakage limits"
+      feature_3="Test matrix and inspector guidance"
+      url="/products/valve-pressure-testing/"
+      link_text="Explore the tool"
+    %}
+    {% include product-card.html
+      visual="criteria"
+      kicker="FIELD REFERENCE"
+      short_title="Acceptance"
+      type="Professional inspection tool"
+      status="Coming next"
+      title="Acceptance Criteria Tool"
+      description="Bring commonly used inspection criteria into a consistent, searchable decision workflow."
+      feature_1="Fast criteria navigation"
+      feature_2="Inspection-focused guidance"
+      feature_3="Clear documentation prompts"
+    %}
+    {% include product-card.html
+      visual="wps"
+      kicker="WELDING"
+      short_title="WPS Review"
+      type="Professional inspection tool"
+      status="Coming next"
+      title="WPS Review Tool"
+      description="Guide procedure reviews with a repeatable workflow for essential variables, qualifications, and records."
+      feature_1="Structured review sequence"
+      feature_2="Qualification cross-checks"
+      feature_3="Review findings log"
+    %}
+  </div>
+</section>
 
-Toolbox to Table was created to share practical industrial knowledge gained through real-world experience. Through field lessons, technical resources, training materials, and The Inspector's Handbook Series, the mission is simple:
+<section class="proof">
+  <div class="section shell">
+    <div class="section-heading section-heading--light">
+      <div>
+        <p class="eyebrow eyebrow--light"><span></span> Why Toolbox to Table</p>
+        <h2>Made for real work—not shelf space.</h2>
+      </div>
+    </div>
+    <div class="proof-grid">
+      <article><span>01</span><h3>Built from field experience</h3><p>Focused on how requirements are applied during inspection, testing, and documentation.</p></article>
+      <article><span>02</span><h3>Built to save time</h3><p>Clear inputs, fast outputs, and reusable records reduce repetitive work without hiding the basis.</p></article>
+      <article><span>03</span><h3>Built with discipline</h3><p>Original workflows, version control, technical review, and documented product updates.</p></article>
+    </div>
+  </div>
+</section>
 
-**Help professionals perform work correctly, safely, and efficiently.**
+<section class="section shell">
+  <div class="section-heading">
+    <div>
+      <p class="eyebrow"><span></span> Explore the toolbox</p>
+      <h2>Practical resources for every stage of the job.</h2>
+    </div>
+  </div>
+  <div class="category-grid">
+    <a href="#featured-tools"><span>01</span><h3>Professional tools</h3><p>Calculators, workbooks, decision aids, and inspection systems.</p><b aria-hidden="true">&rarr;</b></a>
+    <a href="{{ '/pages/books/' | relative_url }}"><span>02</span><h3>Inspector handbooks</h3><p>Pocket-sized guidance across major industrial disciplines.</p><b aria-hidden="true">&rarr;</b></a>
+    <a href="{{ '/pages/training/' | relative_url }}"><span>03</span><h3>Training</h3><p>Practical learning built around execution and field understanding.</p><b aria-hidden="true">&rarr;</b></a>
+    <a href="{{ '/pages/field-lessons/' | relative_url }}"><span>04</span><h3>Field lessons</h3><p>Real inspection situations, decisions, and lessons learned.</p><b aria-hidden="true">&rarr;</b></a>
+  </div>
+</section>
 
----
-
-# The Inspector's Handbook Series
-
-### 18 Published Pocket-Sized Field Guides
-
-18 Published Pocket-Sized Field Guides
-
-Built for inspectors, welders, fitters, QA/QC personnel, supervisors, technicians, and industrial professionals.
-
-<h3>Featured Guides from the Series</h3>
-
-<p align="center">
-
-<a href="/toolbox-to-table/books/general-fabrication-shop-inspector/">
-<img src="/toolbox-to-table/assets/book-covers/general-fabrication-shop-inspector-cover.jpg" width="180">
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="/toolbox-to-table/books/welding-inspector/">
-<img src="/toolbox-to-table/assets/book-covers/welding-inspector-cover.jpg" width="180">
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="/toolbox-to-table/books/pressure-vessel-inspector/">
-<img src="/toolbox-to-table/assets/book-covers/pressure-vessel-inspector-cover.jpg" width="180">
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="/toolbox-to-table/books/piping-inspector/">
-<img src="/toolbox-to-table/assets/book-covers/piping-inspector-cover.jpg" width="180">
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="/toolbox-to-table/books/coating-inspector/">
-<img src="/toolbox-to-table/assets/book-covers/coating-inspector-cover.jpg" width="180">
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="/toolbox-to-table/books/nde-inspector/">
-<img src="/toolbox-to-table/assets/book-covers/nde-inspector-cover.jpg" width="180">
-</a>
-
-</p>
-
-### Explore the Complete Series
-
-[View All 18 Guides](/toolbox-to-table/books/)
----
-
-## Latest Field Lessons
-
-### [The Weld Was X-Rayed. The Requirement Wasn't Met.](/toolbox-to-table/field-lessons/the-weld-was-x-rayed-the-requirement-wasnt-met/)
-
-A vendor completed radiographic testing, generated a report, and documented the results correctly. The problem was that the selected weld did not satisfy the intended examination requirement.
-
-[Read the Lesson →](/toolbox-to-table/field-lessons/the-weld-was-x-rayed-the-requirement-wasnt-met/)
-
-### [Hydrostatic Test Pressure Fluctuations](/toolbox-to-table/field-lessons/hydrostatic-test-pressure-fluctuations/)
-
-A practical look at why hydrostatic test pressures can increase or decrease during a hold period and what inspectors should consider before drawing conclusions.
-
-[Read the Lesson →](/toolbox-to-table/field-lessons/hydrostatic-test-pressure-fluctuations/)
-
----
-
-### [How Is This Weld Acceptable?](/toolbox-to-table/field-lessons/how-is-this-weld-acceptable/)
-
-A common inspection situation where weld gauge measurements alone did not tell the complete story. Understanding joint geometry, measurement techniques, and acceptance criteria is critical before making a final determination.
-
-[Read the Lesson →](/toolbox-to-table/field-lessons/how-is-this-weld-acceptable/)
-
-[View All Field Lessons →](/toolbox-to-table/field-lessons/)
-
-## Future Training Resources
-
-Toolbox to Table will continue expanding into practical training materials built around real field execution.
-
-Planned resources include:
-
-* WPS Interpretation
-* Joint Configuration Fundamentals
-* Welder Fundamentals
-* Fitter Fundamentals
-* Inspection Fundamentals
-* Visual Training Materials
-* Bilingual English / Spanish Resources
-
-[View Training Resources](/toolbox-to-table/training/)
-
----
-
-## Built From Real Field Experience
-
-Standards, specifications, and procedures matter — but knowing how to apply them in the field is where real understanding begins.
-
-Toolbox to Table exists to bridge that gap.
+<section class="cta-section">
+  <div class="shell cta-inner">
+    <div>
+      <p class="eyebrow eyebrow--light"><span></span> Work with more confidence</p>
+      <h2>Bring the right tool to tomorrow’s inspection.</h2>
+    </div>
+    <a class="button button--primary" href="#featured-tools">Explore professional tools</a>
+  </div>
+</section>

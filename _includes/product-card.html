@@ -1,0 +1,25 @@
+<article class="product-card{% if include.featured %} product-card--featured{% endif %}">
+  <div class="product-visual product-visual--{{ include.visual | default: 'general' }}" aria-hidden="true">
+    <span class="product-kicker">{{ include.kicker }}</span>
+    <strong>{{ include.short_title }}</strong>
+    <span class="instrument-line"></span>
+  </div>
+  <div class="product-card-body">
+    <div class="product-meta">
+      <span>{{ include.type | default: "Professional tool" }}</span>
+      <span>{{ include.status | default: "In development" }}</span>
+    </div>
+    <h3>{{ include.title }}</h3>
+    <p>{{ include.description }}</p>
+    <ul class="feature-list">
+      <li>{{ include.feature_1 }}</li>
+      <li>{{ include.feature_2 }}</li>
+      <li>{{ include.feature_3 }}</li>
+    </ul>
+    {% if include.url %}
+      <a class="text-link" href="{{ include.url | relative_url }}">{{ include.link_text | default: "View tool" }} <span aria-hidden="true">&rarr;</span></a>
+    {% else %}
+      <span class="text-link text-link--muted">Product details coming soon</span>
+    {% endif %}
+  </div>
+</article>
