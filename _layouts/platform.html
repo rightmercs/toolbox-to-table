@@ -13,6 +13,35 @@
     <meta name="twitter:card" content="summary_large_image">
     {% if page.image %}<meta property="og:image" content="{{ page.image | absolute_url }}">{% endif %}
     <link rel="canonical" href="{{ page.url | absolute_url }}">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Toolbox to Table",
+      "url": "{{ '/' | absolute_url }}",
+      "description": {{ site.description | jsonify }}
+    }
+    </script>
+    {% if page.product_id %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": {{ page.title | jsonify }},
+      "description": {{ page.description | jsonify }},
+      "sku": {{ page.product_id | jsonify }},
+      "image": "{{ page.image | absolute_url }}",
+      "brand": { "@type": "Brand", "name": "Toolbox to Table" },
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "{{ page.price }}",
+        "availability": "https://schema.org/InStock",
+        "url": {{ page.purchase_url | jsonify }}
+      }
+    }
+    </script>
+    {% endif %}
     <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/platform-2.0.css' | relative_url }}?v=20260725-5">
   </head>

@@ -4,6 +4,9 @@ title: Valve Inspection & Pressure Testing Workbook
 description: A professional Excel tool for organizing valve test pressures, hold times, acceptance guidance, gauge selection, and inspection records.
 permalink: /products/valve-pressure-testing/
 image: /assets/products/valve-pressure-testing/quick-lookup.png
+product_id: TTT-VLV-001
+price: 39.00
+purchase_url: https://payhip.com/b/P7uaO
 ---
 
 <section class="product-hero">
@@ -14,7 +17,7 @@ image: /assets/products/valve-pressure-testing/quick-lookup.png
       <h1>Valve Inspection &amp; Pressure Testing Workbook</h1>
       <p class="hero-lead">Move from valve data to organized test requirements, gauge guidance, acceptance information, and professional inspection records in one practical Excel tool.</p>
       <div class="product-badges">
-        <span>Professional Edition v1.0</span><span>Microsoft Excel</span><span>PDF guide included</span>
+        <span>Professional Edition v1.0.1</span><span>Microsoft Excel</span><span>PDF guide included</span>
       </div>
       <div class="purchase-panel">
         <div><small>Individual license</small><strong>$39</strong></div>
@@ -60,9 +63,27 @@ image: /assets/products/valve-pressure-testing/quick-lookup.png
     <div class="included-grid">
       <article><span>01</span><h3>Quick Lookup</h3><p>Enter the rating, size, valve type, seat, test, and medium to organize the required information.</p></article>
       <article><span>02</span><h3>Test Matrix</h3><p>Create repeatable valve-test records for as many as 100 entries.</p></article>
-      <article><span>03</span><h3>Field Guidance</h3><p>Material, media, acceptance, gauge, safety, and witness notes written for inspector use.</p></article>
+      <article><span>03</span><h3>Field Guidance</h3><p>API 598 application guidance plus original API 6D and API 6A review workflows, gauge, safety, and witness notes.</p></article>
       <article><span>04</span><h3>Buyer Package</h3><p>Professional workbook, PDF Quick Start Guide, README, version information, and license notice.</p></article>
     </div>
+  </div>
+</section>
+
+<section class="section shell product-section" id="release-notes">
+  <div class="section-heading">
+    <div><p class="eyebrow"><span></span> Current release</p><h2>Version 1.0.1</h2></div>
+    <p>A focused maintenance release for clearer standards control and commercial distribution.</p>
+  </div>
+  <div class="split-content">
+    <ul class="check-grid">
+      <li>Preserved the working Quick Lookup calculator</li>
+      <li>Preserved the 100-entry Test Matrix</li>
+      <li>Added original API 6D / API 6A review workflows</li>
+      <li>Strengthened edition, addenda, and errata prompts</li>
+      <li>Corrected gauge-selection labeling</li>
+      <li>Updated license, support, and release information</li>
+    </ul>
+    <p class="fine-print">The API 6D and API 6A worksheets are review workflows only. They do not reproduce or calculate standard-specific pressure, duration, sequence, or leakage requirements. The applicable licensed standards are required.</p>
   </div>
 </section>
 
@@ -136,6 +157,7 @@ image: /assets/products/valve-pressure-testing/quick-lookup.png
     <div class="faq-list">
       <details><summary>Does this replace API, ASME, ISO, or project standards?</summary><p>No. It is an original productivity and educational companion tool. Users must obtain and follow the applicable standards, addenda, project specifications, purchase order, valve data sheet, ITP, and approved test procedure.</p></details>
       <details><summary>Can I use it for multiple valves?</summary><p>Yes. Quick Lookup handles one valve configuration at a time, while Test Matrix supports up to 100 valve-test entries.</p></details>
+      <details><summary>Does it calculate API 6D or API 6A requirements?</summary><p>No. Quick Lookup is configured for the stated API 598 workflow. The API 6D and API 6A worksheets provide original review workflows and edition-control prompts; users must determine the requirements from their licensed governing standards and project documents.</p></details>
       <details><summary>What do I receive after checkout?</summary><p>You receive the Professional Edition Excel workbook, PDF Quick Start Guide, and package README through Payhip's digital-delivery system.</p></details>
       <details><summary>Can my company share one purchase?</summary><p>No. The standard purchase is an individual-user license. A separate multi-user, classroom, company, or site license is required for shared use.</p></details>
       <details><summary>Does it replace pressure-testing safety controls?</summary><p>No. Pressure testing must be performed by qualified personnel using an approved procedure, calibrated equipment, suitable barriers, controlled pressurization, and all applicable site controls.</p></details>
