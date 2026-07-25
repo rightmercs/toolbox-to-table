@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - platform-2.0
+      - main
   pull_request:
     branches:
       - main
@@ -36,5 +37,8 @@ jobs:
           test -f _site/assets/css/platform-2.0.css
           test -f _site/404.html
           grep -q "https://payhip.com/b/P7uaO" _site/products/valve-pressure-testing/index.html
-          test ! -f "_site/Fireproofing & Refractory Inspector Print Ready.pdf"
-          test ! -f "_site/The Welding Inspector Print Ready.pdf"
+          if find _site -type f \( -iname '*.pdf' -o -iname '*.xlsx' -o -iname '*.zip' \) | grep -q .; then
+            echo "Paid or print-ready files must not be included in the public site build."
+            find _site -type f \( -iname '*.pdf' -o -iname '*.xlsx' -o -iname '*.zip' \)
+            exit 1
+          fi
