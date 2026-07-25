@@ -12,7 +12,7 @@ description: Practical digital tools that help industrial inspectors work faster
       <p class="hero-lead">Practical digital tools that help inspectors work faster, document better, and make more confident decisions.</p>
       <div class="button-row">
         <a class="button button--primary" href="#featured-tools">Shop professional tools</a>
-          <a class="button button--secondary" href="{{ '/pages/books/' | relative_url }}">Browse inspection guides</a>
+          <a class="button button--secondary" href="{{ '/books/' | relative_url }}">Browse inspection guides</a>
       </div>
       <div class="trust-line" aria-label="Product principles">
         <span>Practical workflows</span>
@@ -119,7 +119,7 @@ description: Practical digital tools that help industrial inspectors work faster
   </div>
   <div class="category-grid">
     <a href="#featured-tools"><span>01</span><h3>Professional tools</h3><p>Calculators, workbooks, decision aids, and inspection systems.</p><b aria-hidden="true">&rarr;</b></a>
-      <a href="{{ '/pages/books/' | relative_url }}"><span>02</span><h3>Inspection guides</h3><p>The Inspector's Handbook Series: practical guidance across major industrial disciplines.</p><b aria-hidden="true">&rarr;</b></a>
+      <a href="{{ '/books/' | relative_url }}"><span>02</span><h3>Inspection guides</h3><p>The Inspector's Handbook Series: practical guidance across major industrial disciplines.</p><b aria-hidden="true">&rarr;</b></a>
     <a href="{{ '/pages/training/' | relative_url }}"><span>03</span><h3>Training</h3><p>Practical learning built around execution and field understanding.</p><b aria-hidden="true">&rarr;</b></a>
     <a href="{{ '/pages/field-lessons/' | relative_url }}"><span>04</span><h3>Field lessons</h3><p>Real inspection situations, decisions, and lessons learned.</p><b aria-hidden="true">&rarr;</b></a>
   </div>
