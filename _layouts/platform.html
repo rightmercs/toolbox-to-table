@@ -5,8 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#0b1f33">
     <meta name="description" content="{{ page.description | default: site.description | escape }}">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="{{ site.title | escape }}">
+    <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+    <meta property="og:description" content="{{ page.description | default: site.description | escape }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta name="twitter:card" content="summary_large_image">
+    {% if page.image %}<meta property="og:image" content="{{ page.image | absolute_url }}">{% endif %}
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
     <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/platform-2.0.css' | relative_url }}?v=20260725-2">
+    <link rel="stylesheet" href="{{ '/assets/css/platform-2.0.css' | relative_url }}?v=20260725-3">
   </head>
   <body>
     <a class="skip-link" href="#main-content">Skip to content</a>
@@ -20,11 +28,11 @@
           </span>
         </a>
         <nav class="site-nav" aria-label="Primary navigation">
-          <a href="{{ '/#featured-tools' | relative_url }}">Tools</a>
+          <a href="{{ '/shop/' | relative_url }}">Shop</a>
           <a href="{{ '/books/' | relative_url }}">Inspection Guides</a>
           <a href="{{ '/pages/training/' | relative_url }}">Training</a>
           <a href="{{ '/pages/about/' | relative_url }}">About</a>
-          <a class="nav-cta" href="{{ '/pages/contact/' | relative_url }}">Contact</a>
+          <a class="nav-cta" href="{{ '/products/valve-pressure-testing/' | relative_url }}">Get the Valve Tool</a>
         </nav>
       </div>
     </header>
@@ -42,7 +50,7 @@
         </div>
         <div>
           <h2>Explore</h2>
-          <a href="{{ '/#featured-tools' | relative_url }}">Professional tools</a>
+          <a href="{{ '/shop/' | relative_url }}">Professional tools</a>
           <a href="{{ '/books/' | relative_url }}">Inspection guides</a>
           <a href="{{ '/pages/training/' | relative_url }}">Training</a>
         </div>
@@ -50,12 +58,13 @@
           <h2>Company</h2>
           <a href="{{ '/pages/about/' | relative_url }}">About</a>
           <a href="{{ '/pages/contact/' | relative_url }}">Contact</a>
+          <a href="{{ '/support/' | relative_url }}">Customer support</a>
           <a href="{{ '/pages/field-lessons/' | relative_url }}">Field lessons</a>
         </div>
       </div>
       <div class="shell footer-base">
         <span>&copy; {{ 'now' | date: '%Y' }} Toolbox to Table</span>
-        <span>Built for the field.</span>
+        <span><a href="{{ '/pages/privacy/' | relative_url }}">Privacy</a> &nbsp;·&nbsp; <a href="{{ '/pages/terms/' | relative_url }}">Terms</a></span>
       </div>
     </footer>
   </body>

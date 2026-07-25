@@ -3,12 +3,13 @@ layout: platform
 title: Valve Inspection & Pressure Testing Workbook
 description: A professional Excel tool for organizing valve test pressures, hold times, acceptance guidance, gauge selection, and inspection records.
 permalink: /products/valve-pressure-testing/
+image: /assets/products/valve-pressure-testing/quick-lookup.png
 ---
 
 <section class="product-hero">
   <div class="shell product-hero-grid">
     <div>
-      <a class="breadcrumb" href="{{ '/#featured-tools' | relative_url }}">&larr; Professional tools</a>
+      <a class="breadcrumb" href="{{ '/shop/' | relative_url }}">&larr; Professional tools</a>
       <p class="eyebrow"><span></span> Available now</p>
       <h1>Valve Inspection &amp; Pressure Testing Workbook</h1>
       <p class="hero-lead">Move from valve data to organized test requirements, gauge guidance, acceptance information, and professional inspection records in one practical Excel tool.</p>
