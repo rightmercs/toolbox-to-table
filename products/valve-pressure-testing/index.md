@@ -145,7 +145,7 @@ purchase_url: https://payhip.com/b/P7uaO
   <div class="delivery-grid">
     <article><h3>Customer download</h3><p>Professional Excel workbook, six-page PDF Quick Start Guide, and package README delivered together in one ZIP file.</p></article>
     <article><h3>Excel compatibility</h3><p>Designed for a current desktop version of Microsoft Excel supporting formulas, data validation, worksheet protection, and hyperlinks.</p></article>
-    <article><h3>Individual license</h3><p>The $39 purchase covers one professional user. Team, classroom, company, and site licenses require separate licensing.</p></article>
+    <article><h3>Individual license</h3><p>The $39 purchase covers one professional user. <a href="{{ '/licensing/' | relative_url }}">Team, classroom, company, and site licenses</a> require separate licensing.</p></article>
   </div>
 </section>
 
@@ -160,6 +160,7 @@ purchase_url: https://payhip.com/b/P7uaO
       <details><summary>Does it calculate API 6D or API 6A requirements?</summary><p>No. Quick Lookup is configured for the stated API 598 workflow. The API 6D and API 6A worksheets provide original review workflows and edition-control prompts; users must determine the requirements from their licensed governing standards and project documents.</p></details>
       <details><summary>What do I receive after checkout?</summary><p>You receive the Professional Edition Excel workbook, PDF Quick Start Guide, and package README through Payhip's digital-delivery system.</p></details>
       <details><summary>Can my company share one purchase?</summary><p>No. The standard purchase is an individual-user license. A separate multi-user, classroom, company, or site license is required for shared use.</p></details>
+      <details><summary>Can I request pricing for several inspectors?</summary><p>Yes. Review the <a href="{{ '/licensing/' | relative_url }}">company licensing page</a> and contact Toolbox to Table through the Payhip seller-contact channel with the product, number of users, and intended use.</p></details>
       <details><summary>Does it replace pressure-testing safety controls?</summary><p>No. Pressure testing must be performed by qualified personnel using an approved procedure, calibrated equipment, suitable barriers, controlled pressurization, and all applicable site controls.</p></details>
     </div>
   </div>

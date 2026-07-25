@@ -101,6 +101,9 @@ p, h1, h2, h3 { margin-top: 0; }
 .eyebrow span { width: 28px; height: 3px; background: var(--orange); }
 .hero .eyebrow, .product-hero .eyebrow, .eyebrow--light { color: #bbc8d1; }
 .button-row { display: flex; flex-wrap: wrap; gap: 13px; margin-top: 34px; }
+.numbered-list { display: grid; gap: 14px; margin: 0 0 24px; padding-left: 24px; }
+.numbered-list li { padding-left: 8px; color: var(--steel); }
+.numbered-list li::marker { color: var(--orange); font-weight: 800; }
 .button { display: inline-flex; align-items: center; justify-content: center; min-height: 50px; padding: 0 22px; border: 1px solid transparent; border-radius: 4px; font-size: .82rem; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; transition: .18s ease; }
 .button--primary { color: var(--white); background: var(--orange); box-shadow: 0 10px 25px rgba(242,106,33,.23); }
 .button--primary:hover, .button--primary:focus-visible { background: var(--orange-dark); transform: translateY(-2px); }

@@ -24,6 +24,7 @@ permalink: /shop/
     {% include product-card.html visual="criteria" kicker="FIELD REFERENCE" short_title="Acceptance" type="Professional inspection tool" status="Planned" title="Acceptance Criteria Tool" description="A consistent decision workflow for navigating commonly used inspection criteria and documenting the applicable basis." feature_1="Fast criteria navigation" feature_2="Inspection-focused guidance" feature_3="Clear documentation prompts" %}
   </div>
   <p class="shop-note"><strong>Standards notice:</strong> Toolbox to Table products are original companion tools. They do not reproduce or replace governing codes and standards. Users should verify requirements against the applicable edition and project documents.</p>
+  <div class="button-row"><a class="button text-link" href="{{ '/licensing/' | relative_url }}">Need licenses for a team or company?</a></div>
 </section>
 
 <section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Available now</p><h2>Put the Valve Tool to work on your next test.</h2></div><a class="button button--primary" href="{{ '/products/valve-pressure-testing/' | relative_url }}">View the Valve Tool</a></div></section>
