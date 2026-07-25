@@ -14,13 +14,7 @@ header_pages:
 # Print-ready handbook source files are retained in the repository for now,
 # but must never be copied into the public GitHub Pages build.
 exclude:
-  - "Fireproofing & Refractory Inspector Print Ready.pdf"
-  - "Heat Exchanger Inspector Print Ready.pdf"
-  - "Pressure Vessel Inspector Print Ready.pdf"
-  - "The Boiler Inspector Print Ready.pdf"
-  - "The Coating Inspector Print Ready.pdf"
-  - "The General Fabrication Shop Inspector Print Ready.pdf"
-  - "The Piping Inspector Print Ready.pdf"
-  - "The Structural Steel Inspector Print Ready.pdf"
-  - "The Tank Inspector Print Ready.pdf"
-  - "The Welding Inspector Print Ready.pdf"
+  - "*.pdf"
+  - "*.xlsx"
+  - "*.xlsm"
+  - "*.zip"
