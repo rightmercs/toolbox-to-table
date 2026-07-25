@@ -16,11 +16,10 @@ permalink: /products/valve-pressure-testing/
         <span>Version 1.0</span><span>Microsoft Excel</span><span>API 598 workflow</span>
       </div>
       <div class="purchase-panel">
-        <div><small>Launch price</small><strong>Coming soon</strong></div>
-        <!-- PURCHASE_URL_PLACEHOLDER: Replace #purchase-not-ready with the live checkout URL before launch. -->
-        <a class="button button--primary" href="#purchase-not-ready" aria-describedby="purchase-note">Purchase link coming soon</a>
+        <div><small>Launch price</small><strong>$39</strong></div>
+        <a class="button button--primary" href="https://payhip.com/b/P7uaO" target="_blank" rel="noopener" aria-describedby="purchase-note">Buy now — $39</a>
       </div>
-      <p class="purchase-note" id="purchase-note">Checkout is being prepared. Product details are available now.</p>
+      <p class="purchase-note" id="purchase-note">Secure checkout and digital delivery are provided by Payhip.</p>
     </div>
     <div class="hero-panel product-preview" aria-label="Quick Lookup preview">
       <div class="panel-top"><span class="status-dot"></span><span>Quick Lookup</span><span>LIVE</span></div>
@@ -99,9 +98,9 @@ permalink: /products/valve-pressure-testing/
   </div>
 </section>
 
-<section class="cta-section" id="purchase-not-ready">
+<section class="cta-section">
   <div class="shell cta-inner">
-    <div><p class="eyebrow eyebrow--light"><span></span> Launch preparation</p><h2>The purchase link will be added before release.</h2></div>
-    <a class="button button--secondary button--on-dark" href="{{ '/pages/contact/' | relative_url }}">Contact Toolbox to Table</a>
+    <div><p class="eyebrow eyebrow--light"><span></span> Ready for the next FAT</p><h2>Put the Valve Pressure Testing Tool to work.</h2></div>
+    <a class="button button--primary" href="https://payhip.com/b/P7uaO" target="_blank" rel="noopener">Buy now — $39</a>
   </div>
 </section>
