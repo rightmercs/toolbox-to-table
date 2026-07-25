@@ -1,0 +1,37 @@
+name: Validate Platform 2.0
+
+on:
+  push:
+    branches:
+      - platform-2.0
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Configure GitHub Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Build Jekyll site
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Verify storefront output
+        shell: bash
+        run: |
+          test -f _site/index.html
+          test -f _site/products/valve-pressure-testing/index.html
+          test -f _site/assets/css/platform-2.0.css
+          grep -q "https://payhip.com/b/P7uaO" _site/products/valve-pressure-testing/index.html

@@ -1,6 +1,8 @@
 title: Toolbox to Table
 description: Bridging Field Experience and Practical Knowledge
 theme: minima
+url: https://rightmercs.github.io
+baseurl: /toolbox-to-table
 
 header_pages:
   - pages/books.md
