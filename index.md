@@ -90,6 +90,22 @@ description: Practical digital tools that help industrial inspectors work faster
       feature_1="Structured review sequence"
       feature_2="Qualification cross-checks"
       feature_3="Review findings log"
+      url="/welding-tools/"
+      link_text="Explore welding tools"
+    %}
+    {% include product-card.html
+      visual="wps"
+      kicker="WELDING"
+      short_title="WPS Creation"
+      type="Professional inspection tool"
+      status="In development"
+      title="WPS Creation Workbook"
+      description="Build and document a new welding procedure through a controlled, traceable development workflow."
+      feature_1="Guided procedure inputs"
+      feature_2="Qualification planning"
+      feature_3="Creation records and checks"
+      url="/welding-tools/"
+      link_text="Explore welding tools"
     %}
   </div>
 </section>
