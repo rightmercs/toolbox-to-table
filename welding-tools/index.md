@@ -1,7 +1,7 @@
 ---
 layout: platform
 title: WPS Review and Creation Workbooks
-description: Two professional welding-procedure workbooks in development: one for reviewing existing WPS packages and one for creating new procedure packages.
+description: A professional WPS compliance review tool available now, with a separate WPS creation workbook in development.
 permalink: /welding-tools/
 ---
 
@@ -9,22 +9,23 @@ permalink: /welding-tools/
   <div class="shell">
     <p class="eyebrow eyebrow--light"><span></span> Welding procedure tools</p>
     <h1>Review an existing WPS. Build a new one with control.</h1>
-    <p>Toolbox to Table is developing two separate professional workbooks because reviewing an existing procedure and creating a new procedure are different jobs with different evidence, decisions, and records.</p>
+    <p>Toolbox to Table separates WPS review from WPS creation because they are different jobs with different evidence, decisions, and records. The professional review tool is available now; the creation workbook remains in development.</p>
   </div>
 </section>
 
 <section class="section shell">
   <div class="section-heading">
     <div><p class="eyebrow"><span></span> Two focused workflows</p><h2>Choose the tool that matches the work.</h2></div>
-    <p>Both products remain in development until technical, field-use, originality, and quality reviews are complete.</p>
+    <p>Choose the released review workflow for an existing WPS package or follow development of the creation workflow for a new procedure.</p>
   </div>
   <div class="support-grid">
     <article class="support-card">
       <p class="eyebrow"><span></span> Existing procedure</p>
-      <h2>WPS Review Workbook</h2>
-      <p>Organizes the review of an existing WPS, its supporting PQR, qualification basis, essential variables, project requirements, and documented findings.</p>
-      <ul class="feature-list"><li>Document and scope control</li><li>Qualification cross-checks</li><li>Essential-variable review</li><li>Findings and disposition log</li></ul>
-      <p><strong>Status:</strong> In development</p>
+      <h2>WPS Compliance Review Tool</h2>
+      <p>Organizes review of an existing WPS, its supporting PQR, qualification basis, essential variables, project requirements, and documented disposition.</p>
+      <ul class="feature-list"><li>ASME Section IX, AWS D1.1, and API 1104 paths</li><li>Mandatory input gates</li><li>Qualification and variable controls</li><li>Final review record and tracking matrix</li></ul>
+      <p><strong>Status:</strong> Available now · $39</p>
+      <div class="button-row"><a class="button button--primary" href="{{ '/products/wps-compliance-review/' | relative_url }}">View details</a><a class="button text-link" href="https://payhip.com/b/gI8lk" target="_blank" rel="noopener noreferrer">Buy on Payhip</a></div>
     </article>
     <article class="support-card">
       <p class="eyebrow"><span></span> New procedure</p>
@@ -36,7 +37,7 @@ permalink: /welding-tools/
     <article class="support-card">
       <p class="eyebrow"><span></span> Shared principles</p>
       <h2>Companion tools, not code replacements</h2>
-      <p>Each workbook will use original workflows and require the user to verify the applicable construction code, edition, project specification, contract documents, and qualified engineering or welding authority.</p>
+      <p>Each workbook uses original workflows and requires the user to verify the applicable construction code, edition, project specification, contract documents, and qualified engineering or welding authority.</p>
       <ul class="feature-list"><li>Original organization and guidance</li><li>Version-controlled releases</li><li>Documented technical scope</li><li>Commercial distribution review</li></ul>
     </article>
   </div>
@@ -54,4 +55,4 @@ permalink: /welding-tools/
   </div>
 </section>
 
-<section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Available today</p><h2>Need a field-ready inspection tool now?</h2></div><a class="button button--primary" href="{{ '/products/valve-pressure-testing/' | relative_url }}">View the Valve Workbook</a></div></section>
+<section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Available today</p><h2>Put the WPS review workflow to work now.</h2></div><a class="button button--primary" href="https://payhip.com/b/gI8lk" target="_blank" rel="noopener noreferrer">Get the WPS Review Tool - $39</a></div></section>
