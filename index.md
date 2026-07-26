@@ -98,14 +98,28 @@ description: Practical digital tools that help industrial inspectors work faster
       kicker="WELDING"
       short_title="WPS Creation"
       type="Professional inspection tool"
-      status="In development"
-      title="WPS Creation Workbook"
+      status="$149 · Available now"
+      title="WPS Creation System"
       description="Build and document a new welding procedure through a controlled, traceable development workflow."
       feature_1="Guided procedure inputs"
       feature_2="Qualification planning"
       feature_3="Creation records and checks"
-      url="/welding-tools/"
-      link_text="Explore welding tools"
+      url="/products/wps-creation/"
+      link_text="View details and buy"
+    %}
+    {% include product-card.html
+      visual="wps"
+      kicker="WELDING"
+      short_title="WQR / WPQ"
+      type="Professional automated system"
+      status="$199 · Available now"
+      title="Welder Qualification & Continuity System"
+      description="Create controlled WQR/WPQ records, generate branded qualification packages, and monitor process-specific continuity."
+      feature_1="Guided qualification workflow"
+      feature_2="Automated record generation"
+      feature_3="Continuity evidence and alerts"
+      url="/products/wqr-qualification-continuity/"
+      link_text="View details and buy"
     %}
   </div>
 </section>

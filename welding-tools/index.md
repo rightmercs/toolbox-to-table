@@ -1,7 +1,7 @@
 ---
 layout: platform
 title: WPS Review and Creation Workbooks
-description: A professional WPS compliance review tool available now, with a separate WPS creation workbook in development.
+description: Professional systems for WPS review, WPS creation, welder qualification records, and continuity control.
 permalink: /welding-tools/
 ---
 
@@ -9,14 +9,14 @@ permalink: /welding-tools/
   <div class="shell">
     <p class="eyebrow eyebrow--light"><span></span> Welding procedure tools</p>
     <h1>Review an existing WPS. Build a new one with control.</h1>
-    <p>Toolbox to Table separates WPS review from WPS creation because they are different jobs with different evidence, decisions, and records. The professional review tool is available now; the creation workbook remains in development.</p>
+    <p>Toolbox to Table separates WPS review, WPS creation, and welder qualification because they are different jobs with different evidence, decisions, and controlled records.</p>
   </div>
 </section>
 
 <section class="section shell">
   <div class="section-heading">
     <div><p class="eyebrow"><span></span> Two focused workflows</p><h2>Choose the tool that matches the work.</h2></div>
-    <p>Choose the released review workflow for an existing WPS package or follow development of the creation workflow for a new procedure.</p>
+    <p>Choose the workflow for reviewing an existing procedure, creating a new procedure, or controlling qualification and continuity records.</p>
   </div>
   <div class="support-grid">
     <article class="support-card">
@@ -32,7 +32,16 @@ permalink: /welding-tools/
       <h2>WPS Creation Workbook</h2>
       <p>Guides development of a new WPS package by organizing design inputs, process variables, qualification planning, supporting records, reviews, and approvals.</p>
       <ul class="feature-list"><li>Guided procedure inputs</li><li>Qualification-test planning</li><li>Supporting-record controls</li><li>Review and approval workflow</li></ul>
-      <p><strong>Status:</strong> In development</p>
+      <p><strong>Status:</strong> Available now · $149</p>
+      <div class="button-row"><a class="button button--primary" href="{{ '/products/wps-creation/' | relative_url }}">View details</a><a class="button text-link" href="https://payhip.com/b/9k2aE" target="_blank" rel="noopener noreferrer">Buy on Payhip</a></div>
+    </article>
+    <article class="support-card">
+      <p class="eyebrow"><span></span> Qualification records</p>
+      <h2>Welder Qualification &amp; Continuity System</h2>
+      <p>Creates controlled WQR/WPQ records, branded qualification packages, qualification registers, and process-specific continuity evidence.</p>
+      <ul class="feature-list"><li>Guided qualification workflow</li><li>Automated PDF, Word, and Excel outputs</li><li>Personnel and qualification registers</li><li>Continuity status and evidence control</li></ul>
+      <p><strong>Status:</strong> Available now · $199</p>
+      <div class="button-row"><a class="button button--primary" href="{{ '/products/wqr-qualification-continuity/' | relative_url }}">View details</a><a class="button text-link" href="https://payhip.com/b/7UxbG" target="_blank" rel="noopener noreferrer">Buy on Payhip</a></div>
     </article>
     <article class="support-card">
       <p class="eyebrow"><span></span> Shared principles</p>
@@ -55,4 +64,4 @@ permalink: /welding-tools/
   </div>
 </section>
 
-<section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Available today</p><h2>Put the WPS review workflow to work now.</h2></div><a class="button button--primary" href="https://payhip.com/b/gI8lk" target="_blank" rel="noopener noreferrer">Get the WPS Review Tool - $39</a></div></section>
+<section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Three welding systems available</p><h2>Choose the controlled workflow that matches the work.</h2></div><a class="button button--primary" href="{{ '/shop/' | relative_url }}">Shop welding tools</a></div></section>
