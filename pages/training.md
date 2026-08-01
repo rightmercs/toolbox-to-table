@@ -5,16 +5,16 @@ description: Field-focused industrial inspection training from Toolbox to Table.
 permalink: /pages/training/
 ---
 
-<section class="page-hero"><div class="shell"><p class="eyebrow eyebrow--light"><span></span> Training</p><h1>Practical training built around the work.</h1><p>Focused instruction for inspectors and QA/QC professionals is in development, beginning with WPS interpretation and review.</p></div></section>
+<section class="page-hero"><div class="shell"><p class="eyebrow eyebrow--light"><span></span> Toolbox to Table Training</p><h1>Practical training built around the work.</h1><p>Structured learning systems for inspectors and QA/QC professionals—built around document control, field application, objective findings, and defensible records.</p></div></section>
 
 <section class="section shell">
-  <div class="section-heading"><div><p class="eyebrow"><span></span> First program</p><h2>WPS Interpretation and Review</h2></div><p>A field-focused learning path for reading welding procedure specifications, tracing qualification support, recognizing essential variables, and documenting review findings.</p></div>
-  <div class="support-grid">
-    <article class="support-card"><h2>Understand the documents</h2><p>Learn how the WPS, PQR, welder qualification, project specification, and governing construction code work together.</p></article>
-    <article class="support-card"><h2>Review systematically</h2><p>Use a repeatable sequence that reduces missed variables, unsupported ranges, and incomplete documentation.</p></article>
-    <article class="support-card"><h2>Apply it in the field</h2><p>Connect procedure requirements to joint preparation, consumables, parameters, preheat, technique, and production records.</p></article>
-  </div>
-  <p class="shop-note"><strong>Status:</strong> The WPS training content and companion review tool are currently being developed. They will be published only after technical, field-use, and quality review.</p>
+  <div class="section-heading"><div><p class="eyebrow"><span></span> Complete course</p><h2>WPS Interpretation and Understanding</h2></div><p>A complete 15-lesson program for learning how a WPS is supported, how requirements are traced, and how review findings are documented.</p></div>
+  <article class="training-feature">
+    <div class="training-feature__visual"><span>TTT-WPS-101</span><strong>WPS</strong><p>Interpretation &amp; Understanding</p></div>
+    <div class="training-feature__body"><p class="edition-label">Release 1.0 · Student and Instructor editions</p><h3>From procedure reading to controlled field review.</h3><p>Includes a 40-page student manual, 17-page workbook, four-page field checklist, 50-question examination, practical capstone, completion records, and a complete instructor delivery system.</p><ul class="feature-list"><li>15 sequenced lessons</li><li>8–12 hours plus practical review</li><li>AWS D1.1 pathway with ASME Section IX comparison</li><li>70-slide instructor presentation</li></ul><a class="button button--primary" href="{{ '/training/wps-interpretation/' | relative_url }}">Explore TTT-WPS-101</a></div>
+  </article>
 </section>
 
-<section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Available while training is developed</p><h2>Build practical knowledge with the Inspection Guides.</h2></div><a class="button button--primary" href="{{ '/books/' | relative_url }}">Browse Inspection Guides</a></div></section>
+<section class="section section--light"><div class="shell"><div class="section-heading"><div><p class="eyebrow"><span></span> Training standard</p><h2>Built for use—not passive completion.</h2></div></div><div class="support-grid"><article class="support-card"><h3>Structured sequence</h3><p>Lessons, exercises, examination, and capstone follow one documented learning path.</p></article><article class="support-card"><h3>Controlled technical basis</h3><p>The course teaches navigation and application while requiring authorized governing standards and project documents.</p></article><article class="support-card"><h3>Documented completion</h3><p>Written results, practical performance, remediation, review, and completion can be recorded consistently.</p></article></div></div></section>
+
+<section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Companion workflow</p><h2>Use the WPS Compliance Review Tool after the training.</h2></div><a class="button button--primary" href="{{ '/products/wps-compliance-review/' | relative_url }}">View the WPS Review Tool</a></div></section>
