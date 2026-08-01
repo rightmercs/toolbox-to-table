@@ -52,7 +52,7 @@ permalink: /training/wps-interpretation/
       <p class="edition-label">Individual learning</p><h3>Student Course Package</h3><p>For inspectors, QA/QC personnel, welding personnel, and technical professionals completing the course independently or through an employer-led program.</p>
       <ul class="feature-list"><li>Student manual and workbook</li><li>Field WPS review checklist</li><li>Final examination and practical capstone</li><li>Course completion record and certificate</li><li>9 controlled PDF and text files</li></ul>
       <p class="release-status">$199 · Individual license · Available through Payhip</p>
-      <a class="button button--primary" href="https://payhip.com/b/6ZNqO" target="_blank" rel="noopener noreferrer">Enroll — $199</a>
+      <a class="button button--primary" href="https://payhip.com/order?link=6ZNqO&amp;pricing_plan=yZGjlv9OzN" target="_blank" rel="noopener noreferrer">Enroll — $199</a>
     </article>
     <article class="edition-card edition-card--featured">
       <p class="edition-label">Training delivery</p><h3>Instructor Course Package</h3><p>For qualified instructors, employers, training providers, and QA/QC organizations delivering and documenting the complete course.</p>
@@ -75,4 +75,4 @@ permalink: /training/wps-interpretation/
   </div>
 </section>
 
-<section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Available now</p><h2>Start the individual course or equip one instructor to deliver it.</h2></div><a class="button button--primary" href="https://payhip.com/b/6ZNqO" target="_blank" rel="noopener noreferrer">Enroll in the course</a></div></section>
+<section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Available now</p><h2>Start the individual course or equip one instructor to deliver it.</h2></div><a class="button button--primary" href="https://payhip.com/order?link=6ZNqO&amp;pricing_plan=yZGjlv9OzN" target="_blank" rel="noopener noreferrer">Enroll in the course</a></div></section>
