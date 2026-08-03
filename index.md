@@ -121,6 +121,20 @@ description: Practical digital tools that help industrial inspectors work faster
       url="/products/wqr-qualification-continuity/"
       link_text="View details and buy"
     %}
+    {% include product-card.html
+      visual="training"
+      kicker="TTT-VI-101"
+      short_title="Visual Inspection"
+      type="Professional training program"
+      status="$199 · Available now"
+      title="Visual Welding Inspection Fundamentals"
+      description="Plan, perform, document, and close visual welding inspections through a controlled field workflow."
+      feature_1="Original field photographs"
+      feature_2="Exam, capstone, and checklist"
+      feature_3="Individual and Classroom editions"
+      url="/training/visual-welding-inspection/"
+      link_text="Explore the course"
+    %}
   </div>
 </section>
 
