@@ -72,7 +72,7 @@ description: Practical digital tools that help industrial inspectors work faster
       kicker="FIELD REFERENCE"
       short_title="Acceptance"
       type="Professional inspection tool"
-      status="Coming next"
+      status="In development"
       title="Acceptance Criteria Tool"
       description="Bring commonly used inspection criteria into a consistent, searchable decision workflow."
       feature_1="Fast criteria navigation"
@@ -128,7 +128,7 @@ description: Practical digital tools that help industrial inspectors work faster
   <div class="shell training-launch__inner">
     <div class="training-launch__mark"><span>TTT-WPS-101</span><strong>WPS</strong></div>
     <div class="training-launch__copy"><p class="eyebrow eyebrow--light"><span></span> New complete training program</p><h2>WPS Interpretation and Understanding</h2><p>Fifteen lessons, guided exercises, a field review checklist, written examination, practical capstone, and complete instructor delivery resources.</p></div>
-    <a class="button button--primary" href="{{ '/training/wps-interpretation/' | relative_url }}">Explore the course</a>
+    <div class="button-row training-launch__actions"><a class="button button--primary" href="{{ '/training/wps-interpretation/' | relative_url }}">Explore the course</a><a class="button button--secondary" href="https://payhip.com/b/6ZNqO" target="_blank" rel="noopener noreferrer">Enroll — $199</a></div>
   </div>
 </section>
 

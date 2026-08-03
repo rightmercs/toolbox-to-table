@@ -140,6 +140,7 @@ p, h1, h2, h3 { margin-top: 0; }
 .product-visual::after { content: ""; position: absolute; width: 170px; height: 170px; right: -35px; bottom: -55px; border: 22px solid rgba(255,255,255,.08); border-radius: 50%; }
 .product-visual--criteria { background: linear-gradient(145deg, #243543, #596c78); }
 .product-visual--wps { background: linear-gradient(145deg, #182b3e, #425c6d); }
+.product-visual--training { background: linear-gradient(145deg, #0f273a, #315b74); }
 .product-kicker { display: block; color: #b9c9d3; font-size: .68rem; font-weight: 800; letter-spacing: .13em; }
 .product-visual strong { display: block; max-width: 190px; margin-top: 32px; font-size: 1.7rem; line-height: 1.02; }
 .instrument-line { position: absolute; left: 27px; bottom: 25px; width: 90px; height: 4px; background: var(--orange); }
@@ -276,6 +277,8 @@ p, h1, h2, h3 { margin-top: 0; }
 .training-feature__visual span { color: #b9cad5; font-size: .72rem; font-weight: 850; letter-spacing: .13em; }
 .training-feature__visual strong { margin-top: 45px; color: var(--orange); font-size: clamp(4.5rem, 10vw, 8rem); line-height: .8; letter-spacing: -.07em; }
 .training-feature__visual p { max-width: 260px; margin: 18px 0 0; font-size: 1.35rem; font-weight: 800; line-height: 1.15; }
+.training-feature__visual--image { min-height: 470px; padding: 0; background: var(--navy-950); }
+.training-feature__visual--image img { width: 100%; height: 100%; min-height: 470px; object-fit: cover; object-position: center; }
 .training-feature__body { padding: 48px; }
 .training-feature__body h3 { margin-bottom: 18px; font-size: clamp(1.8rem, 4vw, 2.8rem); line-height: 1.08; }
 .training-feature__body > p:not(.edition-label) { color: var(--steel-700); }
@@ -286,6 +289,15 @@ p, h1, h2, h3 { margin-top: 0; }
 .training-launch__mark strong { color: var(--orange); font-size: 3.1rem; line-height: 1; letter-spacing: -.06em; }
 .training-launch__copy h2 { margin: 5px 0 8px; color: #fff; font-size: clamp(1.6rem, 3vw, 2.5rem); line-height: 1.08; }
 .training-launch__copy > p:last-child { max-width: 710px; margin: 0; color: #b9c8d2; font-size: .9rem; }
+.training-launch__actions { flex-wrap: wrap; justify-content: flex-end; }
+.course-hero-image img { aspect-ratio: 16 / 10; object-fit: cover; object-position: center; }
+.course-preview-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 22px; }
+.course-preview-card { display: flex; flex-direction: column; margin: 0; overflow: hidden; background: #fff; border: 1px solid var(--steel-150); box-shadow: 0 15px 38px rgba(7,21,34,.08); }
+.course-preview-card a { display: flex; align-items: flex-start; justify-content: center; height: 360px; padding: 14px; background: var(--steel-075); border-bottom: 1px solid var(--steel-150); overflow: hidden; }
+.course-preview-card img { display: block; width: 100%; height: 100%; object-fit: contain; background: #fff; }
+.course-preview-card figcaption { display: flex; flex-direction: column; gap: 6px; padding: 20px; }
+.course-preview-card figcaption strong { color: var(--navy-900); font-size: 1rem; }
+.course-preview-card figcaption span { color: var(--steel-700); font-size: .84rem; line-height: 1.5; }
 .legal-copy { max-width: 850px; }
 .legal-copy h2 { margin-top: 2.3rem; color: var(--navy-900); }
 .legal-copy p, .legal-copy li { color: var(--steel-700); }
@@ -336,6 +348,8 @@ p, h1, h2, h3 { margin-top: 0; }
   .training-feature__visual { min-height: 320px; }
   .training-launch__inner { grid-template-columns: auto 1fr; }
   .training-launch__inner .button { grid-column: 1 / -1; }
+  .training-launch__actions { grid-column: 1 / -1; justify-content: flex-start; }
+  .course-preview-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .resource-grid { grid-template-columns: 1fr; }
 }
 
@@ -364,6 +378,10 @@ p, h1, h2, h3 { margin-top: 0; }
   .product-hero-image { padding: 10px; }
   .edition-grid, .course-summary-card dl { grid-template-columns: 1fr; }
   .training-feature__body, .training-feature__visual, .edition-card { padding: 28px; }
+  .training-feature__visual--image { min-height: 260px; padding: 0; }
+  .training-feature__visual--image img { min-height: 260px; }
+  .course-preview-grid { grid-template-columns: 1fr; }
+  .course-preview-card a { height: 420px; }
   .training-launch__inner { grid-template-columns: 1fr; gap: 22px; }
   .training-launch__mark { width: 100%; }
   .mobile-purchase-bar {

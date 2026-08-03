@@ -15,12 +15,25 @@ permalink: /training/wps-interpretation/
       <div class="product-badges"><span>15 lessons</span><span>8–12 hours</span><span>Practical capstone</span><span>Field checklist</span></div>
       <div class="button-row"><a class="button button--primary" href="#course-editions">Compare course editions</a><a class="button button--secondary" href="{{ '/products/wps-compliance-review/' | relative_url }}">View the companion review tool</a></div>
     </div>
-    <aside class="course-summary-card" aria-label="Course summary">
-      <span class="course-code">TTT-WPS-101</span>
-      <strong>WPS</strong>
-      <h2>Interpretation &amp; Understanding</h2>
-      <dl><div><dt>Lessons</dt><dd>15</dd></div><div><dt>Written exam</dt><dd>50 questions</dd></div><div><dt>Practical</dt><dd>Capstone review</dd></div><div><dt>Release</dt><dd>1.0</dd></div></dl>
-    </aside>
+    <figure class="product-hero-image course-hero-image">
+      <img src="{{ '/assets/training/wps-interpretation/course-hero.png' | relative_url }}" alt="Welding inspector reviewing a procedure beside a groove-weld coupon, flashlight, and tape measure">
+      <figcaption>Built around practical procedure review, traceability, field observation, and defensible documentation.</figcaption>
+    </figure>
+  </div>
+</section>
+
+<section class="section shell product-section" id="course-preview">
+  <div class="section-heading">
+    <div><p class="eyebrow"><span></span> Preview the Individual Edition</p><h2>See the materials before you enroll.</h2></div>
+    <p>Actual pages from the student manual, lesson content, guided workbook, field checklist, capstone, and completion certificate.</p>
+  </div>
+  <div class="course-preview-grid">
+    <figure class="course-preview-card"><a href="{{ '/assets/training/wps-interpretation/01-student-manual.png' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/training/wps-interpretation/01-student-manual.png' | relative_url }}" alt="WPS course student manual preview"></a><figcaption><strong>Student Manual</strong><span>Structured instruction across the complete 15-lesson sequence.</span></figcaption></figure>
+    <figure class="course-preview-card"><a href="{{ '/assets/training/wps-interpretation/02-lesson-content.png' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/training/wps-interpretation/02-lesson-content.png' | relative_url }}" alt="WPS interpretation lesson preview"></a><figcaption><strong>Lesson Content</strong><span>Field-focused explanation, review logic, and technical boundaries.</span></figcaption></figure>
+    <figure class="course-preview-card"><a href="{{ '/assets/training/wps-interpretation/03-guided-workbook.png' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/training/wps-interpretation/03-guided-workbook.png' | relative_url }}" alt="Guided WPS student workbook preview"></a><figcaption><strong>Guided Workbook</strong><span>Exercises that follow and reinforce the lesson sequence.</span></figcaption></figure>
+    <figure class="course-preview-card"><a href="{{ '/assets/training/wps-interpretation/04-field-checklist.png' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/training/wps-interpretation/04-field-checklist.png' | relative_url }}" alt="Field WPS review checklist preview"></a><figcaption><strong>Field Checklist</strong><span>A repeatable review aid for use after the course.</span></figcaption></figure>
+    <figure class="course-preview-card"><a href="{{ '/assets/training/wps-interpretation/05-practical-capstone.png' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/training/wps-interpretation/05-practical-capstone.png' | relative_url }}" alt="WPS practical capstone preview"></a><figcaption><strong>Practical Capstone</strong><span>Apply the complete review method to a controlled scenario.</span></figcaption></figure>
+    <figure class="course-preview-card"><a href="{{ '/assets/training/wps-interpretation/06-certificate.png' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/training/wps-interpretation/06-certificate.png' | relative_url }}" alt="WPS course completion certificate preview"></a><figcaption><strong>Completion Certificate</strong><span>Documents completion without claiming certification or inspection authority.</span></figcaption></figure>
   </div>
 </section>
 
@@ -52,7 +65,7 @@ permalink: /training/wps-interpretation/
       <p class="edition-label">Individual learning</p><h3>Student Course Package</h3><p>For inspectors, QA/QC personnel, welding personnel, and technical professionals completing the course independently or through an employer-led program.</p>
       <ul class="feature-list"><li>Student manual and workbook</li><li>Field WPS review checklist</li><li>Final examination and practical capstone</li><li>Course completion record and certificate</li><li>9 controlled PDF and text files</li></ul>
       <p class="release-status">$199 · Individual license · Available through Payhip</p>
-      <a class="button button--primary" href="https://payhip.com/order?link=6ZNqO&amp;pricing_plan=yZGjlv9OzN" target="_blank" rel="noopener noreferrer">Enroll — $199</a>
+      <a class="button button--primary" href="https://payhip.com/b/6ZNqO" target="_blank" rel="noopener noreferrer">Enroll — $199</a>
     </article>
     <article class="edition-card edition-card--featured">
       <p class="edition-label">Training delivery</p><h3>Instructor Course Package</h3><p>For qualified instructors, employers, training providers, and QA/QC organizations delivering and documenting the complete course.</p>
@@ -75,4 +88,4 @@ permalink: /training/wps-interpretation/
   </div>
 </section>
 
-<section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Available now</p><h2>Start the individual course or equip one instructor to deliver it.</h2></div><a class="button button--primary" href="https://payhip.com/order?link=6ZNqO&amp;pricing_plan=yZGjlv9OzN" target="_blank" rel="noopener noreferrer">Enroll in the course</a></div></section>
+<section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Available now</p><h2>Start the individual course or equip one instructor to deliver it.</h2></div><a class="button button--primary" href="https://payhip.com/b/6ZNqO" target="_blank" rel="noopener noreferrer">Enroll in the course</a></div></section>
