@@ -1,6 +1,7 @@
 ---
 layout: platform
 title: WPS Creation System
+published: false
 description: Build and document new welding procedures through a controlled, traceable professional workflow.
 permalink: /products/wps-creation/
 purchase_url: https://payhip.com/b/9k2aE

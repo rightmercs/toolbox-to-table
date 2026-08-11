@@ -16,8 +16,8 @@ purchase_url: https://payhip.com/b/gI8lk
       <p class="eyebrow eyebrow--light"><span></span> Welding procedure review</p>
       <h1>WPS Compliance Review Tool</h1>
       <p class="hero-lead">Turn a complex WPS review into a controlled, repeatable workflow with separate paths for ASME Section IX, AWS D1.1, and API 1104.</p>
-      <div class="product-badges"><span>Professional Edition v1.2.0</span><span>Microsoft Excel</span><span>PDF guide included</span></div>
-      <div class="purchase-panel"><div><small>Individual license</small><strong>$39</strong></div><a class="button button--primary" href="https://payhip.com/b/gI8lk" target="_blank" rel="noopener noreferrer">Get the tool - $39</a></div>
+      <div class="product-badges"><span>Professional Edition v1.3.3</span><span>Microsoft Excel</span><span>Full PDF manual included</span></div>
+      <div class="purchase-panel"><div><small>Individual license</small><strong>$99.99</strong></div><a class="button button--primary" href="https://payhip.com/b/gI8lk" target="_blank" rel="noopener noreferrer">Get the tool - $99.99</a></div>
       <p class="purchase-note">Secure checkout and immediate ZIP delivery are provided through Payhip.</p>
       <div class="button-row">
         <a class="button text-link" href="#included">See what is included</a>
@@ -57,4 +57,4 @@ purchase_url: https://payhip.com/b/gI8lk
   <p class="shop-note"><strong>Standards notice:</strong> This original productivity and documentation tool does not reproduce or replace ASME, AWS, API, project specifications, or governing construction codes. Users must possess and consult the applicable legally obtained standards. Final acceptance remains the responsibility of a qualified reviewer operating under the applicable quality-management system.</p>
 </section>
 
-<section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Immediate download</p><h2>Make the next WPS review controlled and repeatable.</h2></div><a class="button button--primary" href="https://payhip.com/b/gI8lk" target="_blank" rel="noopener noreferrer">Buy on Payhip - $39</a></div></section>
+<section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Immediate download</p><h2>Make the next WPS review controlled and repeatable.</h2></div><a class="button button--primary" href="https://payhip.com/b/gI8lk" target="_blank" rel="noopener noreferrer">Buy on Payhip - $99.99</a></div></section>

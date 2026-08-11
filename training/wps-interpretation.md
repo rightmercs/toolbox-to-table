@@ -64,14 +64,14 @@ permalink: /training/wps-interpretation/
     <article class="edition-card">
       <p class="edition-label">Individual learning</p><h3>Student Course Package</h3><p>For inspectors, QA/QC personnel, welding personnel, and technical professionals completing the course independently or through an employer-led program.</p>
       <ul class="feature-list"><li>Student manual and workbook</li><li>Field WPS review checklist</li><li>Final examination and practical capstone</li><li>Course completion record and certificate</li><li>9 controlled PDF and text files</li></ul>
-      <p class="release-status">$199 · Individual license · Available through Payhip</p>
-      <a class="button button--primary" href="https://payhip.com/b/6ZNqO" target="_blank" rel="noopener noreferrer">Enroll — $199</a>
+      <p class="release-status">$249.99 · Individual license · Available through Payhip</p>
+      <a class="button button--primary" href="https://payhip.com/b/6ZNqO" target="_blank" rel="noopener noreferrer">Enroll — $249.99</a>
     </article>
     <article class="edition-card edition-card--featured">
       <p class="edition-label">Training delivery</p><h3>Instructor Course Package</h3><p>For qualified instructors, employers, training providers, and QA/QC organizations delivering and documenting the complete course.</p>
       <ul class="feature-list"><li>Everything in the Student Edition</li><li>51-page Instructor Master Manual</li><li>Instructor guide, answer key, and capstone solution</li><li>70-slide presentation with speaker notes</li><li>Editable controlled records and certificate</li></ul>
-      <p class="release-status">$497 · One named instructor · Learner seats sold separately</p>
-      <a class="button button--primary" href="https://payhip.com/b/H4Osy" target="_blank" rel="noopener noreferrer">Get Instructor Edition — $497</a>
+      <p class="release-status">$597.99 · One named instructor · Learner seats sold separately</p>
+      <a class="button button--primary" href="https://payhip.com/b/H4Osy" target="_blank" rel="noopener noreferrer">Get Instructor Edition — $597.99</a>
     </article>
   </div>
 </section>

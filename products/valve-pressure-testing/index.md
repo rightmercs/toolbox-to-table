@@ -20,8 +20,8 @@ purchase_url: https://payhip.com/b/P7uaO
         <span>Professional Edition v1.0.1</span><span>Microsoft Excel</span><span>PDF guide included</span>
       </div>
       <div class="purchase-panel">
-        <div><small>Individual license</small><strong>$39</strong></div>
-        <a class="button button--primary" href="https://payhip.com/b/P7uaO" target="_blank" rel="noopener noreferrer" aria-describedby="purchase-note">Get the workbook - $39</a>
+        <div><small>Individual license</small><strong>$69.99</strong></div>
+        <a class="button button--primary" href="https://payhip.com/b/P7uaO" target="_blank" rel="noopener noreferrer" aria-describedby="purchase-note">Get the workbook - $69.99</a>
       </div>
       <p class="purchase-note" id="purchase-note">Secure checkout and immediate digital delivery are provided by Payhip.</p>
     </div>
@@ -145,7 +145,7 @@ purchase_url: https://payhip.com/b/P7uaO
   <div class="delivery-grid">
     <article><h3>Customer download</h3><p>Professional Excel workbook, six-page PDF Quick Start Guide, and package README delivered together in one ZIP file.</p></article>
     <article><h3>Excel compatibility</h3><p>Designed for a current desktop version of Microsoft Excel supporting formulas, data validation, worksheet protection, and hyperlinks.</p></article>
-    <article><h3>Individual license</h3><p>The $39 purchase covers one professional user. <a href="{{ '/licensing/' | relative_url }}">Team, classroom, company, and site licenses</a> require separate licensing.</p></article>
+    <article><h3>Individual license</h3><p>The $69.99 purchase covers one professional user. <a href="{{ '/licensing/' | relative_url }}">Team, classroom, company, and site licenses</a> require separate licensing.</p></article>
   </div>
 </section>
 
@@ -169,11 +169,11 @@ purchase_url: https://payhip.com/b/P7uaO
 <section class="cta-section">
   <div class="shell cta-inner">
     <div><p class="eyebrow eyebrow--light"><span></span> Ready for the next FAT</p><h2>Put the Valve Workbook to work.</h2></div>
-    <a class="button button--primary" href="https://payhip.com/b/P7uaO" target="_blank" rel="noopener noreferrer">Get the workbook - $39</a>
+    <a class="button button--primary" href="https://payhip.com/b/P7uaO" target="_blank" rel="noopener noreferrer">Get the workbook - $69.99</a>
   </div>
 </section>
 
 <div class="mobile-purchase-bar" aria-label="Mobile purchase bar">
-  <div><span>Valve Workbook</span><strong>$39</strong></div>
+  <div><span>Valve Workbook</span><strong>$69.99</strong></div>
   <a href="https://payhip.com/b/P7uaO" target="_blank" rel="noopener noreferrer">Buy now</a>
 </div>

@@ -14,7 +14,7 @@ product_id: TTT-QA-001
       <p class="eyebrow eyebrow--light"><span></span> Quality and calibration control</p>
       <h1>Measuring &amp; Test Equipment Control System</h1>
       <p class="hero-lead">Control the complete calibration lifecycle for gauges, chart recorders, torque tools, temperature instruments, tape measures, calipers, ID/OD micrometers, electrical test equipment, reference standards, and other controlled assets.</p>
-      <div class="product-badges"><span>Professional Edition v1.0.0</span><span>Offline Excel system</span><span>Full user manual included</span></div>
+      <div class="product-badges"><span>Professional Edition v1.0.0</span><span>Offline Excel system</span><span>Full user manual included</span><span>$99.99</span></div>
       <div class="button-row"><a class="button button--primary" href="#release-status">View release status</a><a class="button button--secondary" href="#screenshots">See the system</a></div>
       <p class="purchase-note">Commercial package complete. Payhip checkout will be connected when the product listing is published.</p>
     </div>

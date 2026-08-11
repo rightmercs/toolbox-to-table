@@ -72,7 +72,7 @@ description: Practical digital tools that help industrial inspectors work faster
       kicker="QA / CALIBRATION"
       short_title="M&TE Control"
       type="Professional inspection tool"
-      status="Release ready"
+      status="$99.99 · Release ready"
       title="Measuring & Test Equipment Control System"
       description="Control equipment registration, calibration history, recalls, certificate review, and out-of-tolerance impact in one offline system."
       feature_1="Equipment and calibration registers"
@@ -86,7 +86,7 @@ description: Practical digital tools that help industrial inspectors work faster
       kicker="WELDING"
       short_title="WPS Review"
       type="Professional inspection tool"
-      status="$39 · Available now"
+      status="$99.99 · Available now"
       title="WPS Compliance Review Tool"
       description="Review ASME Section IX, AWS D1.1, and API 1104 welding procedures through a controlled, documented workflow."
       feature_1="Structured review sequence"
@@ -100,7 +100,7 @@ description: Practical digital tools that help industrial inspectors work faster
       kicker="TTT-TRACE-101"
       short_title="Material Traceability"
       type="Professional training program"
-      status="Release ready"
+      status="$199.99 individual · Release ready"
       title="MTR, Documentation & Material Traceability"
       description="Learn to verify material records, preserve traceability, identify document gaps, and build defensible heat-map records."
       feature_1="Material record review"
@@ -114,7 +114,7 @@ description: Practical digital tools that help industrial inspectors work faster
       kicker="WELDING"
       short_title="WQR / WPQ"
       type="Professional automated system"
-      status="$199 · Available now"
+      status="$199.99 · Available now"
       title="Welder Qualification & Continuity System"
       description="Create controlled WQR/WPQ records, generate branded qualification packages, and monitor process-specific continuity."
       feature_1="Guided qualification workflow"
@@ -128,7 +128,7 @@ description: Practical digital tools that help industrial inspectors work faster
       kicker="TTT-VI-101"
       short_title="Visual Inspection"
       type="Professional training program"
-      status="$199 · Available now"
+      status="$199.99 individual · Available now"
       title="Visual Welding Inspection Fundamentals"
       description="Plan, perform, document, and close visual welding inspections through a controlled field workflow."
       feature_1="Original field photographs"
@@ -144,7 +144,7 @@ description: Practical digital tools that help industrial inspectors work faster
   <div class="shell training-launch__inner">
     <div class="training-launch__mark"><span>TTT-WPS-101</span><strong>WPS</strong></div>
     <div class="training-launch__copy"><p class="eyebrow eyebrow--light"><span></span> New complete training program</p><h2>WPS Interpretation and Understanding</h2><p>Fifteen lessons, guided exercises, a field review checklist, written examination, practical capstone, and complete instructor delivery resources.</p></div>
-    <div class="button-row training-launch__actions"><a class="button button--primary" href="{{ '/training/wps-interpretation/' | relative_url }}">Explore the course</a><a class="button button--secondary" href="https://payhip.com/b/6ZNqO" target="_blank" rel="noopener noreferrer">Enroll — $199</a></div>
+    <div class="button-row training-launch__actions"><a class="button button--primary" href="{{ '/training/wps-interpretation/' | relative_url }}">Explore the course</a><a class="button button--secondary" href="https://payhip.com/b/6ZNqO" target="_blank" rel="noopener noreferrer">Enroll — $249.99</a></div>
   </div>
 </section>
 
