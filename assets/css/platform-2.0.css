@@ -116,6 +116,8 @@ p, h1, h2, h3 { margin-top: 0; }
 .button--primary:hover, .button--primary:focus-visible { color: var(--white); background: var(--orange-dark); transform: translateY(-2px); }
 .button--secondary { color: var(--white); border-color: #5c7180; background: rgba(255,255,255,.03); }
 .button--secondary:hover, .button--secondary:focus-visible { border-color: var(--white); background: rgba(255,255,255,.08); }
+.button--on-light { color: var(--navy-900); border-color: var(--steel-500); background: transparent; }
+.button--on-light:hover, .button--on-light:focus-visible { color: var(--navy-950); border-color: var(--navy-900); background: var(--steel-075); }
 .trust-line { display: flex; flex-wrap: wrap; gap: 19px; margin-top: 38px; color: #aebcc6; font-size: .78rem; }
 .trust-line span::before { content: "✓"; margin-right: 7px; color: var(--orange); font-weight: 900; }
 
