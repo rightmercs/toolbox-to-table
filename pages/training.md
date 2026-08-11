@@ -27,4 +27,12 @@ permalink: /pages/training/
   </div>
 </section>
 
+<section class="section shell">
+  <div class="section-heading"><div><p class="eyebrow"><span></span> Material control training</p><h2>MTR, Documentation &amp; Material Traceability</h2></div><p>A controlled training system for reviewing material records, preserving identity through fabrication, identifying document gaps, and building defensible heat-map records.</p></div>
+  <article class="training-feature">
+    <div class="training-feature__visual training-feature__visual--image"><img src="{{ '/assets/training/material-traceability/02-course-content.png' | relative_url }}" alt="Material traceability course lesson preview"></div>
+    <div class="training-feature__body"><p class="edition-label">TTT-TRACE-101 · Commercial Release 2.0</p><h3>From purchase documentation to verified material identity.</h3><p>Includes the student course, learner workbook and heat-map practicals, material-verification field guide, final examination, completion records, and a complete instructor delivery package.</p><ul class="feature-list"><li>MTR and certification review</li><li>Heat, lot, grade, and specification traceability</li><li>Heat-map practical exercises</li><li>Student and Instructor editions</li></ul><div class="button-row"><a class="button button--primary" href="{{ '/training/material-traceability/' | relative_url }}">Explore TTT-TRACE-101</a></div></div>
+  </article>
+</section>
+
 <section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Companion workflow</p><h2>Use the WPS Compliance Review Tool after the training.</h2></div><a class="button button--primary" href="{{ '/products/wps-compliance-review/' | relative_url }}">View the WPS Review Tool</a></div></section>

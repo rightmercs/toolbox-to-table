@@ -70,8 +70,8 @@ permalink: /training/wps-interpretation/
     <article class="edition-card edition-card--featured">
       <p class="edition-label">Training delivery</p><h3>Instructor Course Package</h3><p>For qualified instructors, employers, training providers, and QA/QC organizations delivering and documenting the complete course.</p>
       <ul class="feature-list"><li>Everything in the Student Edition</li><li>51-page Instructor Master Manual</li><li>Instructor guide, answer key, and capstone solution</li><li>70-slide presentation with speaker notes</li><li>Editable controlled records and certificate</li></ul>
-      <p class="release-status">$697 · One named instructor · Learner seats sold separately</p>
-      <a class="button button--primary" href="https://payhip.com/b/H4Osy" target="_blank" rel="noopener noreferrer">Get Instructor Edition — $697</a>
+      <p class="release-status">$497 · One named instructor · Learner seats sold separately</p>
+      <a class="button button--primary" href="https://payhip.com/b/H4Osy" target="_blank" rel="noopener noreferrer">Get Instructor Edition — $497</a>
     </article>
   </div>
 </section>
