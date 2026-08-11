@@ -1,14 +1,14 @@
 ---
 layout: platform
-title: Professional Inspection Tools
-description: Shop practical digital tools for industrial valve, welding, and QA/QC inspection work.
+title: Professional Inspection Workbooks
+description: Shop practical workbooks and offline control systems for industrial valve, welding, calibration, and QA/QC inspection work.
 permalink: /shop/
 ---
 
 <section class="page-hero">
   <div class="shell">
-    <p class="eyebrow eyebrow--light"><span></span> Toolbox to Table shop</p>
-    <h1>Professional tools for real inspection work.</h1>
+    <p class="eyebrow eyebrow--light"><span></span> Toolbox to Table workbooks</p>
+    <h1>Professional workbooks and offline control systems.</h1>
     <p>Practical, maintained resources designed to reduce repetitive work, strengthen documentation, and make requirements easier to apply.</p>
   </div>
 </section>

@@ -8,11 +8,11 @@ description: Practical digital tools that help industrial inspectors work faster
   <div class="hero-grid shell">
     <div class="hero-copy">
       <p class="eyebrow"><span></span> Field-built. Professionally developed.</p>
-      <h1>Professional inspection tools <em>built for the field.</em></h1>
-      <p class="hero-lead">Practical digital tools that help inspectors work faster, document better, and make more confident decisions.</p>
+      <h1>Practical inspection systems <em>from toolbox to table.</em></h1>
+      <p class="hero-lead">Toolbox to Table turns field experience into professional workbooks, structured training, and practical inspection guides for industrial QA/QC work.</p>
       <div class="button-row">
-        <a class="button button--primary" href="{{ '/shop/' | relative_url }}">Shop professional tools</a>
-          <a class="button button--secondary" href="{{ '/books/' | relative_url }}">Browse inspection guides</a>
+        <a class="button button--primary" href="{{ '/shop/' | relative_url }}">Browse workbooks</a>
+        <a class="button button--secondary" href="{{ '/pages/training/' | relative_url }}">Explore training</a>
       </div>
       <div class="trust-line" aria-label="Product principles">
         <span>Practical workflows</span>
@@ -43,13 +43,25 @@ description: Practical digital tools that help industrial inspectors work faster
   </div>
 </section>
 
+<section class="section shell" aria-labelledby="what-is-ttt">
+  <div class="section-heading">
+    <div><p class="eyebrow"><span></span> What Toolbox to Table is</p><h2 id="what-is-ttt">Professional resources built around the work inspectors actually perform.</h2></div>
+    <p>TTT products organize complicated inspection activities into repeatable workflows without replacing governing codes, standards, specifications, or qualified professional judgment.</p>
+  </div>
+  <div class="support-grid">
+    <article class="support-card"><h3>Workbooks and control systems</h3><p>Offline tools for valve testing, welding qualification, WPS review, calibration control, documentation, and inspection records.</p><a class="text-link" href="{{ '/shop/' | relative_url }}">Browse workbooks <span aria-hidden="true">&rarr;</span></a></article>
+    <article class="support-card"><h3>Practical training</h3><p>Individual and instructor programs with manuals, exercises, examinations, field activities, and controlled completion records.</p><a class="text-link" href="{{ '/pages/training/' | relative_url }}">Explore training <span aria-hidden="true">&rarr;</span></a></article>
+    <article class="support-card"><h3>Inspection guides</h3><p>Field-oriented references that help inspectors understand equipment, processes, documentation, and common inspection concerns.</p><a class="text-link" href="{{ '/books/' | relative_url }}">Browse guides <span aria-hidden="true">&rarr;</span></a></article>
+  </div>
+</section>
+
 <section class="section shell" id="featured-tools">
   <div class="section-heading">
     <div>
-      <p class="eyebrow"><span></span> Featured tools</p>
-      <h2>Turn field requirements into clear decisions.</h2>
+      <p class="eyebrow"><span></span> Product examples</p>
+      <h2>See the systems already built for real inspection work.</h2>
     </div>
-    <p>Purpose-built resources for the work inspectors perform every day.</p>
+    <p>These examples show how Toolbox to Table converts field activities into controlled, usable products.</p>
   </div>
   <div class="product-grid">
     {% include product-card.html
