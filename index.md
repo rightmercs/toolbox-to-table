@@ -84,7 +84,7 @@ description: Practical digital tools that help industrial inspectors work faster
       kicker="QA / CALIBRATION"
       short_title="M&TE Control"
       type="Professional inspection tool"
-      status="$99.99 · Release ready"
+      status="$99.99 · Available now"
       title="Measuring & Test Equipment Control System"
       description="Control equipment registration, calibration history, recalls, certificate review, and out-of-tolerance impact in one offline system."
       feature_1="Equipment and calibration registers"
