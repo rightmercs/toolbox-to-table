@@ -111,7 +111,7 @@ description: Practical digital tools that help industrial inspectors work faster
       kicker="TTT-TRACE-101"
       short_title="Material Traceability"
       type="Professional training program"
-      status="$199.99 individual · Release ready"
+      status="$199.99 individual · Available now"
       title="MTR, Documentation & Material Traceability"
       description="Learn to verify material records, preserve traceability, identify document gaps, and build defensible heat-map records."
       feature_1="Material record review"
