@@ -40,4 +40,4 @@ permalink: /licensing/
   </div>
 </section>
 
-<section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Individual purchase</p><h2>Need one copy for your own professional use?</h2></div><a class="button button--primary" href="https://payhip.com/b/P7uaO" target="_blank" rel="noopener noreferrer">Buy the individual license — $39</a></div></section>
+<section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Individual purchase</p><h2>Need one workbook for your own professional use?</h2></div><a class="button button--primary" href="{{ '/workbooks/' | relative_url }}">Browse individual workbooks</a></div></section>

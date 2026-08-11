@@ -43,7 +43,7 @@
     </script>
     {% endif %}
     <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/platform-2.0.css' | relative_url }}?v=20260811-1">
+    <link rel="stylesheet" href="{{ '/assets/css/platform-2.0.css' | relative_url }}?v=20260811-2">
   </head>
   <body>
     <a class="skip-link" href="#main-content">Skip to content</a>
@@ -57,12 +57,23 @@
           </span>
         </a>
         <nav class="site-nav" aria-label="Primary navigation">
-          <a href="{{ '/shop/' | relative_url }}">Workbooks</a>
+          <a href="{{ '/workbooks/' | relative_url }}">Workbooks</a>
           <a href="{{ '/pages/training/' | relative_url }}">Training</a>
           <a href="{{ '/books/' | relative_url }}">Inspection Guides</a>
           <a href="{{ '/pages/about/' | relative_url }}">About</a>
           <a class="nav-cta" href="{{ '/shop/' | relative_url }}">View Products</a>
         </nav>
+        <details class="mobile-nav">
+          <summary>Menu</summary>
+          <nav aria-label="Mobile navigation">
+            <a href="{{ '/workbooks/' | relative_url }}">Workbooks</a>
+            <a href="{{ '/pages/training/' | relative_url }}">Training</a>
+            <a href="{{ '/books/' | relative_url }}">Inspection Guides</a>
+            <a href="{{ '/pages/about/' | relative_url }}">About TTT</a>
+            <a href="{{ '/support/' | relative_url }}">Support</a>
+            <a class="nav-cta" href="{{ '/shop/' | relative_url }}">All Products</a>
+          </nav>
+        </details>
       </div>
     </header>
 
@@ -79,7 +90,7 @@
         </div>
         <div>
           <h2>Explore</h2>
-          <a href="{{ '/shop/' | relative_url }}">Professional workbooks</a>
+          <a href="{{ '/workbooks/' | relative_url }}">Professional workbooks</a>
           <a href="{{ '/books/' | relative_url }}">Inspection guides</a>
           <a href="{{ '/pages/training/' | relative_url }}">Training</a>
         </div>

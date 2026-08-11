@@ -90,6 +90,13 @@ p, h1, h2, h3 { margin-top: 0; }
 .site-nav a { color: #dce4e9; }
 .site-nav a:hover, .site-nav a:focus-visible { color: var(--white); }
 .site-nav .nav-cta { padding: 9px 15px; color: var(--white); border: 1px solid #526979; border-radius: 4px; }
+.mobile-nav { display: none; position: relative; }
+.mobile-nav summary { cursor: pointer; padding: 9px 13px; color: var(--white); border: 1px solid #526979; border-radius: 4px; font-size: .78rem; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; list-style: none; }
+.mobile-nav summary::-webkit-details-marker { display: none; }
+.mobile-nav nav { position: absolute; top: calc(100% + 12px); right: 0; display: grid; min-width: 235px; padding: 10px; background: var(--navy-950); border: 1px solid #526979; border-radius: 6px; box-shadow: 0 18px 42px rgba(0,0,0,.35); }
+.mobile-nav nav a { padding: 11px 12px; color: #dce4e9; border-bottom: 1px solid rgba(255,255,255,.08); }
+.mobile-nav nav a:last-child { border-bottom: 0; }
+.mobile-nav nav a:hover, .mobile-nav nav a:focus-visible { color: var(--white); background: rgba(255,255,255,.06); }
 
 .hero, .product-hero { color: var(--white); background: linear-gradient(118deg, var(--navy-950) 0%, var(--navy-900) 64%, #163a54 100%); overflow: hidden; position: relative; }
 .hero::after, .product-hero::after { content: ""; position: absolute; inset: 0 0 0 55%; opacity: .17; background-image: linear-gradient(135deg, transparent 45%, rgba(255,255,255,.12) 45%, rgba(255,255,255,.12) 47%, transparent 47%); background-size: 34px 34px; pointer-events: none; }
@@ -357,7 +364,8 @@ p, h1, h2, h3 { margin-top: 0; }
   :root { --shell: min(100% - 28px, 1180px); }
   .header-inner { align-items: center; }
   .brand-copy small { display: none; }
-  .site-nav a:not(.nav-cta) { display: none; }
+  .site-nav { display: none; }
+  .mobile-nav { display: block; }
   .hero-grid, .product-hero-grid { min-height: auto; padding-block: 58px; }
   .hero-copy h1, .product-hero h1 { font-size: 2.75rem; }
   .button-row, .purchase-panel { align-items: stretch; flex-direction: column; }

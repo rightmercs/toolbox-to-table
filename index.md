@@ -11,7 +11,7 @@ description: Practical digital tools that help industrial inspectors work faster
       <h1>Practical inspection systems <em>from toolbox to table.</em></h1>
       <p class="hero-lead">Toolbox to Table turns field experience into professional workbooks, structured training, and practical inspection guides for industrial QA/QC work.</p>
       <div class="button-row">
-        <a class="button button--primary" href="{{ '/shop/' | relative_url }}">Browse workbooks</a>
+        <a class="button button--primary" href="{{ '/workbooks/' | relative_url }}">Browse workbooks</a>
         <a class="button button--secondary" href="{{ '/pages/training/' | relative_url }}">Explore training</a>
       </div>
       <div class="trust-line" aria-label="Product principles">
@@ -49,7 +49,7 @@ description: Practical digital tools that help industrial inspectors work faster
     <p>TTT products organize complicated inspection activities into repeatable workflows without replacing governing codes, standards, specifications, or qualified professional judgment.</p>
   </div>
   <div class="support-grid">
-    <article class="support-card"><h3>Workbooks and control systems</h3><p>Offline tools for valve testing, welding qualification, WPS review, calibration control, documentation, and inspection records.</p><a class="text-link" href="{{ '/shop/' | relative_url }}">Browse workbooks <span aria-hidden="true">&rarr;</span></a></article>
+    <article class="support-card"><h3>Workbooks and control systems</h3><p>Offline tools for valve testing, welding qualification, WPS review, calibration control, documentation, and inspection records.</p><a class="text-link" href="{{ '/workbooks/' | relative_url }}">Browse workbooks <span aria-hidden="true">&rarr;</span></a></article>
     <article class="support-card"><h3>Practical training</h3><p>Individual and instructor programs with manuals, exercises, examinations, field activities, and controlled completion records.</p><a class="text-link" href="{{ '/pages/training/' | relative_url }}">Explore training <span aria-hidden="true">&rarr;</span></a></article>
     <article class="support-card"><h3>Inspection guides</h3><p>Field-oriented references that help inspectors understand equipment, processes, documentation, and common inspection concerns.</p><a class="text-link" href="{{ '/books/' | relative_url }}">Browse guides <span aria-hidden="true">&rarr;</span></a></article>
   </div>
@@ -184,7 +184,7 @@ description: Practical digital tools that help industrial inspectors work faster
     </div>
   </div>
   <div class="category-grid">
-    <a href="{{ '/shop/' | relative_url }}"><span>01</span><h3>Professional tools</h3><p>Calculators, workbooks, decision aids, and inspection systems.</p><b aria-hidden="true">&rarr;</b></a>
+    <a href="{{ '/workbooks/' | relative_url }}"><span>01</span><h3>Professional workbooks</h3><p>Calculators, workbooks, decision aids, and offline inspection systems.</p><b aria-hidden="true">&rarr;</b></a>
       <a href="{{ '/books/' | relative_url }}"><span>02</span><h3>Inspection guides</h3><p>The Inspector's Handbook Series: practical guidance across major industrial disciplines.</p><b aria-hidden="true">&rarr;</b></a>
     <a href="{{ '/pages/training/' | relative_url }}"><span>03</span><h3>Training</h3><p>Practical learning built around execution and field understanding.</p><b aria-hidden="true">&rarr;</b></a>
     <a href="{{ '/pages/field-lessons/' | relative_url }}"><span>04</span><h3>Field lessons</h3><p>Real inspection situations, decisions, and lessons learned.</p><b aria-hidden="true">&rarr;</b></a>

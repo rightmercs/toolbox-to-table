@@ -16,4 +16,4 @@ permalink: /field-lessons/
   </div>
 </section>
 
-<section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Put knowledge to work</p><h2>Use practical tools on tomorrow's inspection.</h2></div><a class="button button--primary" href="{{ '/shop/' | relative_url }}">Shop Professional Tools</a></div></section>
+<section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Put knowledge to work</p><h2>Use practical tools on tomorrow's inspection.</h2></div><a class="button button--primary" href="{{ '/workbooks/' | relative_url }}">Browse Professional Workbooks</a></div></section>

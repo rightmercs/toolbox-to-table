@@ -11,7 +11,7 @@ permalink: /support/
   <div class="support-grid">
     <article class="support-card"><h2>Purchase and receipt</h2><p>Payments and receipts are handled securely by Payhip. Keep the receipt email associated with your purchase for download access and order verification.</p></article>
     <article class="support-card"><h2>Download access</h2><p>Use the download link provided immediately after checkout or in your Payhip receipt. If access fails, use the seller-contact option associated with that order.</p></article>
-    <article class="support-card"><h2>Workbook compatibility</h2><p>The Valve Tool is designed for desktop Microsoft Excel. Mobile spreadsheet apps and browser-based editors may not preserve every feature or validation control.</p></article>
+    <article class="support-card"><h2>Workbook compatibility</h2><p>TTT professional workbooks are designed for a current desktop version of Microsoft Excel. Macro-enabled products require desktop Excel with macros permitted under the purchaser's normal security controls. Mobile spreadsheet apps and browser-based editors may not preserve every feature, formula, validation control, or automated output.</p></article>
   </div>
 </section>
 
