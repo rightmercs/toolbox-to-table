@@ -20,7 +20,7 @@ description: Practical digital tools that help industrial inspectors work faster
         <span>Version controlled</span>
       </div>
     </div>
-    <div class="hero-panel" aria-label="Valve test tool preview">
+    <a class="hero-panel hero-panel-link" href="{{ '/products/valve-pressure-testing/' | relative_url }}" aria-label="Open the Valve Pressure Testing Tool product page">
       <div class="panel-top">
         <span class="status-dot"></span>
         <span>Valve Pressure Testing Tool</span>
@@ -39,7 +39,7 @@ description: Practical digital tools that help industrial inspectors work faster
         <div><small>Standard</small><strong>API 598</strong></div>
       </div>
       <p class="panel-note">Example: NPS 4 · Class 600 · WC6</p>
-    </div>
+    </a>
   </div>
 </section>
 
@@ -65,12 +65,11 @@ description: Practical digital tools that help industrial inspectors work faster
   </div>
   <div class="product-grid">
     {% include product-card.html
-      featured=true
       visual="valve"
       kicker="API 598"
       short_title="Valve Test"
       type="Excel-based professional tool"
-      status="Flagship"
+      status="$69.99 · Available now"
       title="Valve Pressure Testing Tool"
       description="Calculate test pressures, hold times, leakage criteria, and document valve testing in one focused workflow."
       feature_1="Quick pressure lookup"
@@ -98,7 +97,7 @@ description: Practical digital tools that help industrial inspectors work faster
       kicker="WELDING"
       short_title="WPS Review"
       type="Professional inspection tool"
-      status="$99.99 · Available now"
+      status="$89.99 · Available now"
       title="WPS Compliance Review Tool"
       description="Review ASME Section IX, AWS D1.1, and API 1104 welding procedures through a controlled, documented workflow."
       feature_1="Structured review sequence"
@@ -126,7 +125,7 @@ description: Practical digital tools that help industrial inspectors work faster
       kicker="WELDING"
       short_title="WQR / WPQ"
       type="Professional automated system"
-      status="$199.99 · Available now"
+      status="$149.99 · Available now"
       title="Welder Qualification & Continuity System"
       description="Create controlled WQR/WPQ records, generate branded qualification packages, and monitor process-specific continuity."
       feature_1="Guided qualification workflow"

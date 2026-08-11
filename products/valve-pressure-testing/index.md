@@ -106,8 +106,8 @@ purchase_url: https://payhip.com/b/P7uaO
       <figcaption><strong>Dashboard</strong><span>Move quickly between the calculator, matrix, references, guidance, and license information.</span></figcaption>
     </figure>
     <figure class="screenshot-card">
-      <a href="{{ '/assets/products/valve-pressure-testing/test-matrix.png' | relative_url }}" target="_blank" rel="noopener">
-        <img src="{{ '/assets/products/valve-pressure-testing/test-matrix.png' | relative_url }}" alt="Valve workbook Test Matrix worksheet">
+      <a href="{{ '/assets/products/valve-pressure-testing/test-matrix.png' | relative_url }}" target="_blank" rel="noopener" aria-label="Open the full Test Matrix screenshot">
+        <img src="{{ '/assets/products/valve-pressure-testing/test-matrix-detail.png' | relative_url }}" alt="Close-up of the Valve workbook Test Matrix worksheet">
       </a>
       <figcaption><strong>Test Matrix</strong><span>Track and document as many as 100 valve-test entries in a repeatable format.</span></figcaption>
     </figure>
