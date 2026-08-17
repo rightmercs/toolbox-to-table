@@ -11,13 +11,14 @@ A complete 15-lesson course for learning how to interpret Welding Procedure Spec
 ### Full description
 WPS Interpretation and Understanding is a practical, field-focused course for inspectors, QA/QC personnel, welding personnel, and technical professionals who need a repeatable method for reviewing welding procedure documentation.
 
-The Student Course Package includes a 40-page student manual, a 17-page workbook, a four-page field WPS review checklist, a 50-question final examination, a practical capstone, a course completion record, and a certificate of completion.
+The Version 2.4 Student Course Package includes 15 narrated lessons, captions, transcripts, a detailed student manual, guided workbook, field WPS review checklist, 50-question final examination, practical capstone, course completion record, and certificate of completion.
 
-The 15-lesson course is designed for approximately 8–12 hours of study plus practical review. It uses an AWS D1.1:2020 running-example pathway, ASME Section IX comparison navigation, and ASME Section VIII, Division 1 vessel-joint application guidance.
+The controlled course awards 10 contact hours after the learner completes the required lesson sequence and earns at least 80 percent on the final examination. The practical capstone remains a required application activity but is not the final pass/fail basis.
 
 This course teaches a review method. It does not include or replace licensed codes and standards, approved project documents, employer procedures, or professional qualification requirements. Course completion does not confer certification, code qualification, or inspection authority.
 
 ### Included files
+- 15 narrated lessons with captions and transcripts
 - Student Manual
 - Student Workbook
 - Field WPS Review Checklist
@@ -40,7 +41,7 @@ The Instructor Course Package gives qualified instructors, employers, training p
 
 It includes every student resource plus a 51-page Instructor Master Manual, a 22-page Instructor Guide and Answer Key, examination answers, the practical capstone solution and evaluation rubric, editable course records and certificate, and a 70-slide instructor presentation with speaker notes.
 
-The course contains 15 sequenced lessons and is designed for approximately 8–12 hours of instruction plus practical review. It supports documented written evaluation, practical evaluation, remediation, retesting, reviewer approval, and controlled completion records.
+The Version 2.4 course contains 15 sequenced lessons and documents 10 contact hours. It supports documented evaluation, practical application, remediation, retesting, reviewer approval, and controlled completion records. Successful completion requires at least 80 percent on the final examination.
 
 Instructor-only answers and solutions must remain controlled. Licensed codes, standards, project documents, and employer procedures are not included. The instructor and organization remain responsible for course delivery, adopted requirements, qualification of reviewers, and any employer-specific authorization.
 
@@ -50,6 +51,7 @@ Instructor-only answers and solutions must remain controlled. Licensed codes, st
 - Instructor Guide and Answer Key
 - Final Examination with controlled answers
 - Practical Capstone solution and rubric
-- 70-slide presentation with speaker notes
+- 15 editable instructional PowerPoint masters
+- Narrated lesson videos, captions, and transcripts
 - Editable completion record and certificate
 - Release notes and instructor instructions

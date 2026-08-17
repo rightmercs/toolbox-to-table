@@ -9,10 +9,10 @@ permalink: /training/wps-interpretation/
   <div class="shell product-hero-grid">
     <div>
       <a class="breadcrumb" href="{{ '/pages/training/' | relative_url }}">Training / WPS Interpretation</a>
-      <p class="eyebrow eyebrow--light"><span></span> TTT-WPS-101 · Release 1.0</p>
+      <p class="eyebrow eyebrow--light"><span></span> TTT-WPS-101 · Version 2.4</p>
       <h1>WPS Interpretation and Understanding</h1>
       <p class="hero-lead">Learn a repeatable method for reading Welding Procedure Specifications, tracing qualification support, comparing production conditions with approved requirements, and documenting objective findings.</p>
-      <div class="product-badges"><span>15 lessons</span><span>8–12 hours</span><span>Practical capstone</span><span>Field checklist</span></div>
+      <div class="product-badges"><span>15 lessons</span><span>10 contact hours</span><span>80% final-exam requirement</span><span>Practical capstone</span></div>
       <div class="button-row"><a class="button button--primary" href="#course-editions">Compare course editions</a><a class="button button--secondary" href="{{ '/products/wps-compliance-review/' | relative_url }}">View the companion review tool</a></div>
     </div>
     <figure class="product-hero-image course-hero-image">
@@ -63,13 +63,13 @@ permalink: /training/wps-interpretation/
   <div class="edition-grid">
     <article class="edition-card">
       <p class="edition-label">Individual learning</p><h3>Student Course Package</h3><p>For inspectors, QA/QC personnel, welding personnel, and technical professionals completing the course independently or through an employer-led program.</p>
-      <ul class="feature-list"><li>Student manual and workbook</li><li>Field WPS review checklist</li><li>Final examination and practical capstone</li><li>Course completion record and certificate</li><li>9 controlled PDF and text files</li></ul>
+      <ul class="feature-list"><li>15 narrated lessons with captions and transcripts</li><li>Student manual, workbook, and field checklist</li><li>Practical capstone and 50-question final examination</li><li>10-contact-hour completion certificate after an 80% passing score</li><li>Offline reference materials for continued use</li></ul>
       <p class="release-status">$249.99 · Individual license · Available through Payhip</p>
       <a class="button button--primary" href="https://payhip.com/b/6ZNqO" target="_blank" rel="noopener noreferrer">Enroll — $249.99</a>
     </article>
     <article class="edition-card edition-card--featured">
       <p class="edition-label">Training delivery</p><h3>Instructor Course Package</h3><p>For qualified instructors, employers, training providers, and QA/QC organizations delivering and documenting the complete course.</p>
-      <ul class="feature-list"><li>Everything in the Student Edition</li><li>51-page Instructor Master Manual</li><li>Instructor guide, answer key, and capstone solution</li><li>70-slide presentation with speaker notes</li><li>Editable controlled records and certificate</li></ul>
+      <ul class="feature-list"><li>Everything in the Student Edition</li><li>15 editable instructional PowerPoint masters</li><li>Instructor Master Manual, guide, and controlled answer key</li><li>Editable examination, capstone, records, and certificate</li><li>Delivery, assessment, attempt-control, and certificate guidance</li></ul>
       <p class="release-status">$597.99 · One named instructor · Learner seats sold separately</p>
       <a class="button button--primary" href="https://payhip.com/b/H4Osy" target="_blank" rel="noopener noreferrer">Get Instructor Edition — $597.99</a>
     </article>
