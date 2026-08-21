@@ -111,7 +111,7 @@ description: Practical digital tools that help industrial inspectors work faster
       kicker="TTT-TRACE-101"
       short_title="Material Traceability"
       type="Professional training program"
-      status="$199.99 individual · Available now"
+      status="$199.99 individual · 12 PDHs"
       title="MTR, Documentation & Material Traceability"
       description="Learn to verify material records, preserve traceability, identify document gaps, and build defensible heat-map records."
       feature_1="Material record review"
@@ -139,12 +139,12 @@ description: Practical digital tools that help industrial inspectors work faster
       kicker="TTT-VI-101"
       short_title="Visual Inspection"
       type="Professional training program"
-      status="$199.99 individual · Available now"
+      status="$149 individual · 12 PDHs"
       title="Visual Welding Inspection Fundamentals"
       description="Plan, perform, document, and close visual welding inspections through a controlled field workflow."
       feature_1="Original field photographs"
-      feature_2="Exam, capstone, and checklist"
-      feature_3="Individual and Classroom editions"
+      feature_2="Five discussion scenarios"
+      feature_3="50-question controlled examination"
       url="/training/visual-welding-inspection/"
       link_text="Explore the course"
     %}
@@ -153,9 +153,9 @@ description: Practical digital tools that help industrial inspectors work faster
 
 <section class="training-launch">
   <div class="shell training-launch__inner">
-    <div class="training-launch__mark"><span>TTT-WPS-101</span><strong>WPS</strong></div>
-    <div class="training-launch__copy"><p class="eyebrow eyebrow--light"><span></span> New complete training program</p><h2>WPS Interpretation and Understanding</h2><p>Fifteen lessons, guided exercises, a field review checklist, written examination, practical capstone, and complete instructor delivery resources.</p></div>
-    <div class="button-row training-launch__actions"><a class="button button--primary" href="{{ '/training/wps-interpretation/' | relative_url }}">Explore the course</a><a class="button button--secondary" href="https://payhip.com/b/6ZNqO" target="_blank" rel="noopener noreferrer">Enroll — $249.99</a></div>
+    <div class="training-launch__mark"><span>TTT TRAINING</span><strong>3</strong></div>
+    <div class="training-launch__copy"><p class="eyebrow eyebrow--light"><span></span> Course-based professional training</p><h2>Choose WPS, visual inspection, or material traceability.</h2><p>TTT-WPS-101 documents 10 PDHs. TTT-VI-101 and TTT-TRACE-101 each document 12 PDHs. Every course includes practical application, a controlled 50-question examination, and formal completion records.</p></div>
+    <div class="button-row training-launch__actions"><a class="button button--primary" href="{{ '/pages/training/' | relative_url }}">Compare all courses</a><a class="button button--secondary" href="{{ '/shop/' | relative_url }}">View editions</a></div>
   </div>
 </section>
 

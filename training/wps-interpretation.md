@@ -9,10 +9,10 @@ permalink: /training/wps-interpretation/
   <div class="shell product-hero-grid">
     <div>
       <a class="breadcrumb" href="{{ '/pages/training/' | relative_url }}">Training / WPS Interpretation</a>
-      <p class="eyebrow eyebrow--light"><span></span> TTT-WPS-101 · Version 2.4</p>
+      <p class="eyebrow eyebrow--light"><span></span> TTT-WPS-101 · Version 2.5</p>
       <h1>WPS Interpretation and Understanding</h1>
       <p class="hero-lead">Learn a repeatable method for reading Welding Procedure Specifications, tracing qualification support, comparing production conditions with approved requirements, and documenting objective findings.</p>
-      <div class="product-badges"><span>15 lessons</span><span>10 contact hours</span><span>80% final-exam requirement</span><span>Practical capstone</span></div>
+      <div class="product-badges"><span>15 lessons</span><span>10 PDHs</span><span>50 questions · 80% required</span><span>Practical discussion capstone</span></div>
       <div class="button-row"><a class="button button--primary" href="#course-editions">Compare course editions</a><a class="button button--secondary" href="{{ '/products/wps-compliance-review/' | relative_url }}">View the companion review tool</a></div>
     </div>
     <figure class="product-hero-image course-hero-image">
@@ -25,7 +25,7 @@ permalink: /training/wps-interpretation/
 <section class="section shell product-section" id="course-preview">
   <div class="section-heading">
     <div><p class="eyebrow"><span></span> Preview the Individual Edition</p><h2>See the materials before you enroll.</h2></div>
-    <p>Actual pages from the student manual, lesson content, guided workbook, field checklist, capstone, and completion certificate.</p>
+      <p>Preview the course experience, guided practice, field reference, rebuilt discussion capstone, and completion documentation.</p>
   </div>
   <div class="course-preview-grid">
     <figure class="course-preview-card"><a href="{{ '/assets/training/wps-interpretation/01-student-manual.png' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/training/wps-interpretation/01-student-manual.png' | relative_url }}" alt="WPS course student manual preview"></a><figcaption><strong>Student Manual</strong><span>Structured instruction across the complete 15-lesson sequence.</span></figcaption></figure>
@@ -52,7 +52,7 @@ permalink: /training/wps-interpretation/
     <div class="included-grid">
       <article><span>01</span><h3>Student manual</h3><p>A 40-page, 15-lesson learning path with navigation-based examples and original technical figures.</p></article>
       <article><span>02</span><h3>Student workbook</h3><p>Seventeen pages of guided exercises aligned to the lesson sequence.</p></article>
-      <article><span>03</span><h3>Assessment</h3><p>A 50-question final examination and practical capstone with documented completion criteria.</p></article>
+      <article><span>03</span><h3>Application and assessment</h3><p>An instructor-led discussion capstone followed by the controlled 50-question TTT-WPS-101 Final Examination.</p></article>
       <article><span>04</span><h3>Field application</h3><p>A four-page WPS review checklist, completion record, and certificate of completion.</p></article>
     </div>
   </div>
@@ -62,14 +62,15 @@ permalink: /training/wps-interpretation/
   <div class="section-heading"><div><p class="eyebrow"><span></span> Choose an edition</p><h2>Built for individual learning or controlled instruction.</h2></div><p>Both editions use the same course sequence. The Instructor Edition adds delivery, scoring, solution, and presentation resources that remain instructor-controlled.</p></div>
   <div class="edition-grid">
     <article class="edition-card">
-      <p class="edition-label">Individual learning</p><h3>Student Course Package</h3><p>For inspectors, QA/QC personnel, welding personnel, and technical professionals completing the course independently or through an employer-led program.</p>
-      <ul class="feature-list"><li>15 narrated lessons with captions and transcripts</li><li>Student manual, workbook, and field checklist</li><li>Practical capstone and 50-question final examination</li><li>10-contact-hour completion certificate after an 80% passing score</li><li>Offline reference materials for continued use</li></ul>
-      <p class="release-status">$249.99 · Individual license · Available through Payhip</p>
-      <a class="button button--primary" href="https://payhip.com/b/6ZNqO" target="_blank" rel="noopener noreferrer">Enroll — $249.99</a>
+      <p class="edition-label">Individual learning</p><h3>Individual Edition</h3><p>For inspectors, QA/QC personnel, welding personnel, and technical professionals completing controlled professional-development training.</p>
+      <ul class="feature-list"><li>15 narrated lessons with controlled course access</li><li>Scenario-based practical discussion capstone</li><li>TTT-WPS-101 Final Examination administered through a controlled assessment system</li><li>50 questions · 80% required · maximum three attempts before review/retraining and administrator reauthorization</li><li>Student Field Pack and completion documentation</li></ul>
+      <p class="release-status">$149 · Individual enrollment · 10 Professional Development Hours (PDHs)</p>
+      <a class="button button--primary" href="https://payhip.com/b/6ZNqO" target="_blank" rel="noopener noreferrer">Enroll — $149</a>
+      <p class="purchase-note">Acceptance of PDHs toward a license, certification, employer, or continuing-education requirement is determined by the applicable organization or authority.</p>
     </article>
     <article class="edition-card edition-card--featured">
       <p class="edition-label">Training delivery</p><h3>Instructor Course Package</h3><p>For qualified instructors, employers, training providers, and QA/QC organizations delivering and documenting the complete course.</p>
-      <ul class="feature-list"><li>Everything in the Student Edition</li><li>15 editable instructional PowerPoint masters</li><li>Instructor Master Manual, guide, and controlled answer key</li><li>Editable examination, capstone, records, and certificate</li><li>Delivery, assessment, attempt-control, and certificate guidance</li></ul>
+      <ul class="feature-list"><li>Licensed learner-delivery foundation</li><li>15 editable instructional PowerPoint masters</li><li>Instructor Master Manual, expected answers, and discussion guidance</li><li>Editable capstone, records, certificate, and controlled exam-administration materials</li><li>Delivery, three-attempt control, retraining/reauthorization, and certificate guidance</li></ul>
       <p class="release-status">$597.99 · One named instructor · Learner seats sold separately</p>
       <a class="button button--primary" href="https://payhip.com/b/H4Osy" target="_blank" rel="noopener noreferrer">Get Instructor Edition — $597.99</a>
     </article>
