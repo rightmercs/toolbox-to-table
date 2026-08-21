@@ -8,11 +8,11 @@ description: Practical digital tools that help industrial inspectors work faster
   <div class="hero-grid shell">
     <div class="hero-copy">
       <p class="eyebrow"><span></span> Field-built. Professionally developed.</p>
-      <h1>Professional inspection tools <em>built for the field.</em></h1>
-      <p class="hero-lead">Practical digital tools that help inspectors work faster, document better, and make more confident decisions.</p>
+      <h1>Practical inspection systems <em>from toolbox to table.</em></h1>
+      <p class="hero-lead">Toolbox to Table turns field experience into professional workbooks, structured training, and practical inspection guides for industrial QA/QC work.</p>
       <div class="button-row">
-        <a class="button button--primary" href="#featured-tools">Shop professional tools</a>
-          <a class="button button--secondary" href="{{ '/pages/books/' | relative_url }}">Browse inspection guides</a>
+        <a class="button button--primary" href="{{ '/workbooks/' | relative_url }}">Browse workbooks</a>
+        <a class="button button--secondary" href="{{ '/pages/training/' | relative_url }}">Explore training</a>
       </div>
       <div class="trust-line" aria-label="Product principles">
         <span>Practical workflows</span>
@@ -20,7 +20,7 @@ description: Practical digital tools that help industrial inspectors work faster
         <span>Version controlled</span>
       </div>
     </div>
-    <div class="hero-panel" aria-label="Valve test tool preview">
+    <a class="hero-panel hero-panel-link" href="{{ '/products/valve-pressure-testing/' | relative_url }}" aria-label="Open the Valve Pressure Testing Tool product page">
       <div class="panel-top">
         <span class="status-dot"></span>
         <span>Valve Pressure Testing Tool</span>
@@ -39,26 +39,37 @@ description: Practical digital tools that help industrial inspectors work faster
         <div><small>Standard</small><strong>API 598</strong></div>
       </div>
       <p class="panel-note">Example: NPS 4 · Class 600 · WC6</p>
-    </div>
+    </a>
+  </div>
+</section>
+
+<section class="section shell" aria-labelledby="what-is-ttt">
+  <div class="section-heading">
+    <div><p class="eyebrow"><span></span> What Toolbox to Table is</p><h2 id="what-is-ttt">Professional resources built around the work inspectors actually perform.</h2></div>
+    <p>TTT products organize complicated inspection activities into repeatable workflows without replacing governing codes, standards, specifications, or qualified professional judgment.</p>
+  </div>
+  <div class="support-grid">
+    <article class="support-card"><h3>Workbooks and control systems</h3><p>Offline tools for valve testing, welding qualification, WPS review, calibration control, documentation, and inspection records.</p><a class="text-link" href="{{ '/workbooks/' | relative_url }}">Browse workbooks <span aria-hidden="true">&rarr;</span></a></article>
+    <article class="support-card"><h3>Practical training</h3><p>Individual and instructor programs with manuals, exercises, examinations, field activities, and controlled completion records.</p><a class="text-link" href="{{ '/pages/training/' | relative_url }}">Explore training <span aria-hidden="true">&rarr;</span></a></article>
+    <article class="support-card"><h3>Inspection guides</h3><p>Field-oriented references that help inspectors understand equipment, processes, documentation, and common inspection concerns.</p><a class="text-link" href="{{ '/books/' | relative_url }}">Browse guides <span aria-hidden="true">&rarr;</span></a></article>
   </div>
 </section>
 
 <section class="section shell" id="featured-tools">
   <div class="section-heading">
     <div>
-      <p class="eyebrow"><span></span> Featured tools</p>
-      <h2>Turn field requirements into clear decisions.</h2>
+      <p class="eyebrow"><span></span> Product examples</p>
+      <h2>See the systems already built for real inspection work.</h2>
     </div>
-    <p>Purpose-built resources for the work inspectors perform every day.</p>
+    <p>These examples show how Toolbox to Table converts field activities into controlled, usable products.</p>
   </div>
   <div class="product-grid">
     {% include product-card.html
-      featured=true
       visual="valve"
       kicker="API 598"
       short_title="Valve Test"
       type="Excel-based professional tool"
-      status="Flagship"
+      status="$69.99 · Available now"
       title="Valve Pressure Testing Tool"
       description="Calculate test pressures, hold times, leakage criteria, and document valve testing in one focused workflow."
       feature_1="Quick pressure lookup"
@@ -69,28 +80,82 @@ description: Practical digital tools that help industrial inspectors work faster
     %}
     {% include product-card.html
       visual="criteria"
-      kicker="FIELD REFERENCE"
-      short_title="Acceptance"
+      kicker="QA / CALIBRATION"
+      short_title="M&TE Control"
       type="Professional inspection tool"
-      status="Coming next"
-      title="Acceptance Criteria Tool"
-      description="Bring commonly used inspection criteria into a consistent, searchable decision workflow."
-      feature_1="Fast criteria navigation"
-      feature_2="Inspection-focused guidance"
-      feature_3="Clear documentation prompts"
+      status="$99.99 · Available now"
+      title="Measuring & Test Equipment Control System"
+      description="Control equipment registration, calibration history, recalls, certificate review, and out-of-tolerance impact in one offline system."
+      feature_1="Equipment and calibration registers"
+      feature_2="Due and recall planning"
+      feature_3="Certificate and OOT review"
+      url="/products/mte-control-system/"
+      link_text="Explore the system"
     %}
     {% include product-card.html
       visual="wps"
       kicker="WELDING"
       short_title="WPS Review"
       type="Professional inspection tool"
-      status="Coming next"
-      title="WPS Review Tool"
-      description="Guide procedure reviews with a repeatable workflow for essential variables, qualifications, and records."
+      status="$89.99 · Available now"
+      title="WPS Compliance Review Tool"
+      description="Review ASME Section IX, AWS D1.1, and API 1104 welding procedures through a controlled, documented workflow."
       feature_1="Structured review sequence"
-      feature_2="Qualification cross-checks"
-      feature_3="Review findings log"
+      feature_2="Qualification and variable controls"
+      feature_3="Immediate digital delivery"
+      url="/products/wps-compliance-review/"
+      link_text="View details and buy"
     %}
+    {% include product-card.html
+      visual="training"
+      kicker="TTT-TRACE-101"
+      short_title="Material Traceability"
+      type="Professional training program"
+      status="$199.99 individual · 12 PDHs"
+      title="MTR, Documentation & Material Traceability"
+      description="Learn to verify material records, preserve traceability, identify document gaps, and build defensible heat-map records."
+      feature_1="Material record review"
+      feature_2="Traceability and heat mapping"
+      feature_3="Student and Instructor editions"
+      url="/training/material-traceability/"
+      link_text="Explore the course"
+    %}
+    {% include product-card.html
+      visual="wps"
+      kicker="WELDING"
+      short_title="WQR / WPQ"
+      type="Professional automated system"
+      status="$149.99 · Available now"
+      title="Welder Qualification & Continuity System"
+      description="Create controlled WQR/WPQ records, generate branded qualification packages, and monitor process-specific continuity."
+      feature_1="Guided qualification workflow"
+      feature_2="Automated record generation"
+      feature_3="Continuity evidence and alerts"
+      url="/products/wqr-qualification-continuity/"
+      link_text="View details and buy"
+    %}
+    {% include product-card.html
+      visual="training"
+      kicker="TTT-VI-101"
+      short_title="Visual Inspection"
+      type="Professional training program"
+      status="$149 individual · 12 PDHs"
+      title="Visual Welding Inspection Fundamentals"
+      description="Plan, perform, document, and close visual welding inspections through a controlled field workflow."
+      feature_1="Original field photographs"
+      feature_2="Five discussion scenarios"
+      feature_3="50-question controlled examination"
+      url="/training/visual-welding-inspection/"
+      link_text="Explore the course"
+    %}
+  </div>
+</section>
+
+<section class="training-launch">
+  <div class="shell training-launch__inner">
+    <div class="training-launch__mark"><span>TTT TRAINING</span><strong>3</strong></div>
+    <div class="training-launch__copy"><p class="eyebrow eyebrow--light"><span></span> Course-based professional training</p><h2>Choose WPS, visual inspection, or material traceability.</h2><p>TTT-WPS-101 documents 10 PDHs. TTT-VI-101 and TTT-TRACE-101 each document 12 PDHs. Every course includes practical application, a controlled 50-question examination, and formal completion records.</p></div>
+    <div class="button-row training-launch__actions"><a class="button button--primary" href="{{ '/pages/training/' | relative_url }}">Compare all courses</a><a class="button button--secondary" href="{{ '/shop/' | relative_url }}">View editions</a></div>
   </div>
 </section>
 
@@ -118,8 +183,8 @@ description: Practical digital tools that help industrial inspectors work faster
     </div>
   </div>
   <div class="category-grid">
-    <a href="#featured-tools"><span>01</span><h3>Professional tools</h3><p>Calculators, workbooks, decision aids, and inspection systems.</p><b aria-hidden="true">&rarr;</b></a>
-      <a href="{{ '/pages/books/' | relative_url }}"><span>02</span><h3>Inspection guides</h3><p>The Inspector's Handbook Series: practical guidance across major industrial disciplines.</p><b aria-hidden="true">&rarr;</b></a>
+    <a href="{{ '/workbooks/' | relative_url }}"><span>01</span><h3>Professional workbooks</h3><p>Calculators, workbooks, decision aids, and offline inspection systems.</p><b aria-hidden="true">&rarr;</b></a>
+      <a href="{{ '/books/' | relative_url }}"><span>02</span><h3>Inspection guides</h3><p>The Inspector's Handbook Series: practical guidance across major industrial disciplines.</p><b aria-hidden="true">&rarr;</b></a>
     <a href="{{ '/pages/training/' | relative_url }}"><span>03</span><h3>Training</h3><p>Practical learning built around execution and field understanding.</p><b aria-hidden="true">&rarr;</b></a>
     <a href="{{ '/pages/field-lessons/' | relative_url }}"><span>04</span><h3>Field lessons</h3><p>Real inspection situations, decisions, and lessons learned.</p><b aria-hidden="true">&rarr;</b></a>
   </div>
@@ -131,6 +196,6 @@ description: Practical digital tools that help industrial inspectors work faster
       <p class="eyebrow eyebrow--light"><span></span> Work with more confidence</p>
       <h2>Bring the right tool to tomorrow’s inspection.</h2>
     </div>
-    <a class="button button--primary" href="#featured-tools">Explore professional tools</a>
+    <a class="button button--primary" href="{{ '/shop/' | relative_url }}">Explore professional tools</a>
   </div>
 </section>

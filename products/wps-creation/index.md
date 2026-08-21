@@ -1,0 +1,16 @@
+---
+layout: platform
+title: WPS Creation System
+published: false
+description: Build and document new welding procedures through a controlled, traceable professional workflow.
+permalink: /products/wps-creation/
+purchase_url: https://payhip.com/b/9k2aE
+---
+
+<section class="product-hero"><div class="shell product-hero-grid"><div><p class="eyebrow eyebrow--light"><span></span> Welding procedure development</p><h1>WPS Creation System</h1><p class="hero-lead">Build and document a new welding procedure through a guided workflow for design inputs, variables, qualification planning, review, and controlled issue.</p><div class="button-row"><a class="button button--primary" href="https://payhip.com/b/9k2aE" target="_blank" rel="noopener noreferrer">Get the system - $149</a><a class="button button--secondary" href="{{ '/welding-tools/' | relative_url }}">Compare welding tools</a></div><p class="purchase-note">Professional Edition · Secure Payhip checkout · Immediate digital delivery</p></div><div class="product-summary-card"><span>WPS CREATION</span><strong>CONTROLLED</strong><p>Procedure development, qualification planning, supporting records, review, and approval.</p></div></div></section>
+
+<section class="section shell"><div class="section-heading"><div><p class="eyebrow"><span></span> Build with control</p><h2>Turn a procedure need into a traceable WPS package.</h2></div><p>Keep the design basis, variables, qualification route, review decisions, and issue records connected.</p></div><div class="support-grid"><article class="support-card"><h3>Guided inputs</h3><p>Organize the process, materials, joints, positions, consumables, shielding, electrical variables, technique, and project basis.</p></article><article class="support-card"><h3>Qualification planning</h3><p>Plan supporting testing and document the qualification basis without losing traceability to the governing requirements.</p></article><article class="support-card"><h3>Controlled issue</h3><p>Use review gates, supporting-record controls, and approval steps before releasing the procedure for production use.</p></article></div></section>
+
+<section class="section section--light"><div class="shell product-section"><div class="section-heading"><div><p class="eyebrow"><span></span> Professional workflow</p><h2>Creation and review remain separate jobs.</h2></div></div><div class="spec-table" role="table" aria-label="WPS creation system capabilities"><div role="row"><span role="cell">Starting point</span><strong role="cell">A new procedure need</strong></div><div role="row"><span role="cell">Primary outcome</span><strong role="cell">A controlled draft WPS package ready for qualified review and approval</strong></div><div role="row"><span role="cell">Qualification focus</span><strong role="cell">Plan and record the supporting qualification route</strong></div><div role="row"><span role="cell">Required basis</span><strong role="cell">Licensed governing code and approved project documents</strong></div></div></div></section>
+
+<section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Available now</p><h2>Build the next WPS through a controlled workflow.</h2></div><a class="button button--primary" href="https://payhip.com/b/9k2aE" target="_blank" rel="noopener noreferrer">Buy on Payhip - $149</a></div></section>

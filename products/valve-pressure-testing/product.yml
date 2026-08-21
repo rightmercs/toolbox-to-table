@@ -1,0 +1,16 @@
+id: TTT-VLV-001
+name: Valve Inspection & Pressure Testing Workbook
+edition: Professional
+version: 1.0.1
+status: available
+price_usd: 39
+license: individual-user
+checkout_url: https://payhip.com/b/P7uaO
+product_url: https://rightmercs.github.io/toolbox-to-table/products/valve-pressure-testing/
+formats:
+  - xlsx
+  - pdf
+  - zip
+quick_lookup_standard: API 598
+api_6d_6a_scope: original review workflows only; licensed governing standards required
+updated: 2026-07-25

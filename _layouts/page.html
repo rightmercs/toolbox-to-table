@@ -1,0 +1,24 @@
+---
+layout: platform
+---
+
+<section class="content-hero">
+  <div class="shell">
+    {% if page.url contains '/books/' %}
+      <a class="breadcrumb" href="{{ '/books/' | relative_url }}">&larr; Inspection Guides</a>
+      <p class="eyebrow eyebrow--light"><span></span> Inspector's Handbook Series</p>
+    {% elsif page.url contains '/field-lessons/' %}
+      <a class="breadcrumb" href="{{ '/field-lessons/' | relative_url }}">&larr; Field Lessons</a>
+      <p class="eyebrow eyebrow--light"><span></span> Lessons from the field</p>
+    {% else %}
+      <p class="eyebrow eyebrow--light"><span></span> Toolbox to Table</p>
+    {% endif %}
+    <h1>{{ page.title }}</h1>
+  </div>
+</section>
+
+<section class="section shell">
+  <article class="content-prose{% if page.url contains '/books/' %} guide-detail{% endif %}">
+    {{ content }}
+  </article>
+</section>

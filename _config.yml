@@ -1,5 +1,5 @@
 title: Toolbox to Table
-description: Bridging Field Experience and Practical Knowledge
+description: Professional inspection tools, guides, and field resources built for industrial inspectors.
 theme: minima
 url: https://rightmercs.github.io
 baseurl: /toolbox-to-table
@@ -10,3 +10,11 @@ header_pages:
   - pages/training.md
   - pages/about.md
   - pages/contact.md
+
+# Print-ready handbook source files are retained in the repository for now,
+# but must never be copied into the public GitHub Pages build.
+exclude:
+  - "*.pdf"
+  - "*.xlsx"
+  - "*.xlsm"
+  - "*.zip"
