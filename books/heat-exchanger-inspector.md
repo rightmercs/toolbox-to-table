@@ -7,7 +7,7 @@ permalink: /books/heat-exchanger-inspector/
 
 # The Heat Exchanger Inspector
 
-![Heat Exchanger Inspector Cover](/toolbox-to-table/assets/book-covers/heat-exchanger-inspector-cover.jpg)
+![Heat Exchanger Inspector Cover](/assets/book-covers/heat-exchanger-inspector-cover.jpg)
 
 ## Description
 
@@ -30,4 +30,4 @@ The Heat Exchanger Inspector is designed to support inspectors and quality perso
 
 ---
 
-[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
+[← Back to The Inspector's Handbook Series](/books/)
