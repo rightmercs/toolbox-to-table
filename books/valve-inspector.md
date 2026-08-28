@@ -7,7 +7,7 @@ permalink: /books/valve-inspector/
 
 # The Valve Inspector
 
-![Valve Inspector Cover](/toolbox-to-table/assets/book-covers/valve-inspector-cover.jpg)
+![Valve Inspector Cover](/assets/book-covers/valve-inspector-cover.jpg)
 
 ## Description
 
@@ -30,4 +30,4 @@ The Valve Inspector provides practical guidance for inspectors involved in the m
 
 ---
 
-[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
+[← Back to The Inspector's Handbook Series](/books/)
