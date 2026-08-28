@@ -7,7 +7,7 @@ permalink: /books/fireproofing-refractory-inspector/
 
 # The Fireproofing & Refractory Inspector
 
-![Fireproofing & Refractory Inspector Cover](/toolbox-to-table/assets/book-covers/fireproofing-refractory-inspector-cover.jpg)
+![Fireproofing & Refractory Inspector Cover](/assets/book-covers/fireproofing-refractory-inspector-cover.jpg)
 
 ## Description
 
@@ -30,4 +30,4 @@ The Fireproofing & Refractory Inspector provides practical guidance for professi
 
 ---
 
-[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
+[← Back to The Inspector's Handbook Series](/books/)
