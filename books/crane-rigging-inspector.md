@@ -7,7 +7,7 @@ permalink: /books/crane-rigging-inspector/
 
 # The Crane & Rigging Inspector
 
-![Crane & Rigging Inspector Cover](/toolbox-to-table/assets/book-covers/crane-rigging-inspector-cover.jpg)
+![Crane & Rigging Inspector Cover](/assets/book-covers/crane-rigging-inspector-cover.jpg)
 
 ## Description
 
@@ -30,4 +30,4 @@ The Crane & Rigging Inspector provides practical guidance for professionals resp
 
 ---
 
-[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
+[← Back to The Inspector's Handbook Series](/books/)
