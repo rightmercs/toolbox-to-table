@@ -7,7 +7,7 @@ permalink: /books/piping-inspector/
 
 # The Piping Inspector
 
-![Piping Inspector Cover](/toolbox-to-table/assets/book-covers/piping-inspector-cover.jpg)
+![Piping Inspector Cover](/assets/book-covers/piping-inspector-cover.jpg)
 
 ## Description
 
@@ -30,4 +30,4 @@ The Piping Inspector provides practical guidance for piping fabrication, install
 
 ---
 
-[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
+[← Back to The Inspector's Handbook Series](/books/)
