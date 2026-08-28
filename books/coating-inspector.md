@@ -7,7 +7,7 @@ permalink: /books/coating-inspector/
 
 # The Coating Inspector
 
-![Coating Inspector Cover](/toolbox-to-table/assets/book-covers/coating-inspector-cover.jpg)
+![Coating Inspector Cover](/assets/book-covers/coating-inspector-cover.jpg)
 
 ## Description
 
@@ -30,4 +30,4 @@ The Coating Inspector provides practical field guidance for inspectors involved 
 
 ---
 
-[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
+[← Back to The Inspector's Handbook Series](/books/)
