@@ -24,7 +24,7 @@ permalink: /welding-tools/
       <h2>WPS Compliance Review Tool</h2>
       <p>Organizes review of an existing WPS, its supporting PQR, qualification basis, essential variables, project requirements, and documented disposition.</p>
       <ul class="feature-list"><li>ASME Section IX, AWS D1.1, and API 1104 paths</li><li>Mandatory input gates</li><li>Qualification and variable controls</li><li>Final review record and tracking matrix</li></ul>
-      <p><strong>Status:</strong> Available now · $99.99</p>
+      <p><strong>Status:</strong> Available now · $89.99</p>
       <div class="button-row"><a class="button button--primary" href="{{ '/products/wps-compliance-review/' | relative_url }}">View details</a><a class="button text-link" href="https://payhip.com/b/gI8lk" target="_blank" rel="noopener noreferrer">Buy on Payhip</a></div>
     </article>
     <article class="support-card">
@@ -32,7 +32,7 @@ permalink: /welding-tools/
       <h2>Welder Qualification &amp; Continuity System</h2>
       <p>Creates controlled WQR/WPQ records, branded qualification packages, qualification registers, and process-specific continuity evidence.</p>
       <ul class="feature-list"><li>Guided qualification workflow</li><li>Automated PDF, Word, and Excel outputs</li><li>Personnel and qualification registers</li><li>Continuity status and evidence control</li></ul>
-      <p><strong>Status:</strong> Available now · $199.99</p>
+      <p><strong>Status:</strong> Available now · $149.99</p>
       <div class="button-row"><a class="button button--primary" href="{{ '/products/wqr-qualification-continuity/' | relative_url }}">View details</a><a class="button text-link" href="https://payhip.com/b/7UxbG" target="_blank" rel="noopener noreferrer">Buy on Payhip</a></div>
     </article>
     <article class="support-card">
@@ -47,3 +47,4 @@ permalink: /welding-tools/
 <section class="section section--light"><div class="shell product-section"><div class="section-heading"><div><p class="eyebrow"><span></span> Product architecture</p><h2>Two systems for two different control points.</h2></div></div><div class="spec-table" role="table" aria-label="Welding tool comparison"><div role="row"><span role="cell">WPS Compliance Review</span><strong role="cell">Review an existing WPS package and document the disposition</strong></div><div role="row"><span role="cell">WQR / WPQ System</span><strong role="cell">Create qualification records and maintain process-specific continuity evidence</strong></div><div role="row"><span role="cell">Shared requirement</span><strong role="cell">Licensed governing code, approved project documents, and qualified review authority</strong></div></div></div></section>
 
 <section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Two professional welding systems</p><h2>Choose the controlled workflow that matches the work.</h2></div><a class="button button--primary" href="{{ '/workbooks/' | relative_url }}">Browse all workbooks</a></div></section>
+
