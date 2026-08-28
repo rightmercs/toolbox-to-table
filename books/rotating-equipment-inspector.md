@@ -7,7 +7,7 @@ permalink: /books/rotating-equipment-inspector/
 
 # The Rotating Equipment Inspector
 
-![Rotating Equipment Inspector Cover](/toolbox-to-table/assets/book-covers/rotating-equipment-inspector-cover.jpg)
+![Rotating Equipment Inspector Cover](/assets/book-covers/rotating-equipment-inspector-cover.jpg)
 
 ## Description
 
@@ -30,4 +30,4 @@ The Rotating Equipment Inspector provides practical guidance for inspectors and 
 
 ---
 
-[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
+[← Back to The Inspector's Handbook Series](/books/)
