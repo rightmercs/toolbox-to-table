@@ -71,8 +71,8 @@ permalink: /training/wps-interpretation/
     <article class="edition-card edition-card--featured">
       <p class="edition-label">Training delivery</p><h3>Instructor Course Package</h3><p>For qualified instructors, employers, training providers, and QA/QC organizations delivering and documenting the complete course.</p>
       <ul class="feature-list"><li>Licensed learner-delivery foundation</li><li>15 editable instructional PowerPoint masters</li><li>Instructor Master Manual, expected answers, and discussion guidance</li><li>Editable capstone, records, certificate, and controlled exam-administration materials</li><li>Delivery, three-attempt control, retraining/reauthorization, and certificate guidance</li></ul>
-      <p class="release-status">$597.99 · One named instructor · Learner seats sold separately</p>
-      <a class="button button--primary" href="https://payhip.com/b/H4Osy" target="_blank" rel="noopener noreferrer">Get Instructor Edition — $597.99</a>
+      <p class="release-status">$549.99 · One named instructor · Learner seats sold separately</p>
+      <a class="button button--primary" href="https://payhip.com/b/H4Osy" target="_blank" rel="noopener noreferrer">Get Instructor Edition — $549.99</a>
     </article>
   </div>
 </section>
