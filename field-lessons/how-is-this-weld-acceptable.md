@@ -17,7 +17,7 @@ During a routine visual inspection, a fillet weld was checked using a fillet wel
 
 The initial gauge reading suggested the weld did not achieve the required leg size.
 
-<img src="/toolbox-to-table/assets/field-lessons/how-is-this-weld-acceptable-1.jpg" width="700">
+<img src="/assets/field-lessons/how-is-this-weld-acceptable-1.jpg" width="700">
 
 ## What We Observed
 
@@ -25,7 +25,7 @@ A closer evaluation showed that the base material adjacent to the weld had exper
 
 The gauge was providing useful information, but the result could not be interpreted correctly without understanding the condition of the surrounding material.
 
-<img src="/toolbox-to-table/assets/field-lessons/how-is-this-weld-acceptable-2.jpg" width="700">
+<img src="/assets/field-lessons/how-is-this-weld-acceptable-2.jpg" width="700">
 
 ## Why It Appeared Incorrect
 
@@ -65,4 +65,4 @@ In this case, a quick decision based solely on the apparent reading could have r
 
 Field Lesson #001
 
-[← Back to Field Lessons](/toolbox-to-table/field-lessons/)
+[← Back to Field Lessons](/field-lessons/)
