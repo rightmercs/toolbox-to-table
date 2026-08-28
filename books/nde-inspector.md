@@ -7,7 +7,7 @@ permalink: /books/nde-inspector/
 
 # The NDE Inspector
 
-![NDE Inspector Cover](/toolbox-to-table/assets/book-covers/nde-inspector-cover.jpg)
+![NDE Inspector Cover](/assets/book-covers/nde-inspector-cover.jpg)
 
 ## Description
 
@@ -30,4 +30,4 @@ The NDE Inspector provides practical guidance for inspectors, technicians, and q
 
 ---
 
-[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
+[← Back to The Inspector's Handbook Series](/books/)
