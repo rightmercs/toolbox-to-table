@@ -7,7 +7,7 @@ permalink: /books/instrumentation-electrical-inspector/
 
 # The Instrumentation & Electrical Inspector
 
-![Instrumentation & Electrical Inspector Cover](/toolbox-to-table/assets/book-covers/instrumentation-electrical-inspector-cover.jpg)
+![Instrumentation & Electrical Inspector Cover](/assets/book-covers/instrumentation-electrical-inspector-cover.jpg)
 
 ## Description
 
@@ -30,4 +30,4 @@ The Instrumentation & Electrical Inspector provides practical field guidance for
 
 ---
 
-[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
+[← Back to The Inspector's Handbook Series](/books/)
