@@ -7,7 +7,7 @@ permalink: /books/tank-inspector/
 
 # The Tank Inspector
 
-![Tank Inspector Cover](/toolbox-to-table/assets/book-covers/tank-inspector-cover.jpg)
+![Tank Inspector Cover](/assets/book-covers/tank-inspector-cover.jpg)
 
 ## Description
 
@@ -30,4 +30,4 @@ The Tank Inspector provides practical guidance for inspectors involved in the fa
 
 ---
 
-[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
+[← Back to The Inspector's Handbook Series](/books/)
