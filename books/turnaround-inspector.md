@@ -7,7 +7,7 @@ permalink: /books/turnaround-inspector/
 
 # The Turnaround Inspector
 
-![Turnaround Inspector Cover](/toolbox-to-table/assets/book-covers/turnaround-inspector-cover.jpg)
+![Turnaround Inspector Cover](/assets/book-covers/turnaround-inspector-cover.jpg)
 
 ## Description
 
@@ -30,4 +30,4 @@ The Turnaround Inspector is designed to support inspectors and quality personnel
 
 ---
 
-[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
+[← Back to The Inspector's Handbook Series](/books/)
