@@ -6,7 +6,7 @@ permalink: /books/general-fabrication-shop-inspector/
 
 # The General Fabrication Shop Inspector
 
-![General Fabrication Shop Inspector Cover](/toolbox-to-table/assets/book-covers/general-fabrication-shop-inspector-cover.jpg)
+![General Fabrication Shop Inspector Cover](/assets/book-covers/general-fabrication-shop-inspector-cover.jpg)
 
 ## Description
 
@@ -29,4 +29,4 @@ The General Fabrication Shop Inspector is designed for inspectors, QA/QC personn
 
 ---
 
-[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
+[← Back to The Inspector's Handbook Series](/books/)
