@@ -1,8 +1,8 @@
 title: Toolbox to Table
 description: Professional inspection tools, guides, and field resources built for industrial inspectors.
 theme: minima
-url: https://rightmercs.github.io
-baseurl: /toolbox-to-table
+url: https://toolboxtotable.com
+baseurl: ""
 
 header_pages:
   - pages/books.md
