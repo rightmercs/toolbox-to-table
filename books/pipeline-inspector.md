@@ -7,7 +7,7 @@ permalink: /books/pipeline-inspector/
 
 # The Pipeline Inspector
 
-![Pipeline Inspector Cover](/toolbox-to-table/assets/book-covers/pipeline-inspector-cover.jpg)
+![Pipeline Inspector Cover](/assets/book-covers/pipeline-inspector-cover.jpg)
 
 ## Description
 
@@ -30,4 +30,4 @@ The Pipeline Inspector provides practical field guidance for professionals invol
 
 ---
 
-[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
+[← Back to The Inspector's Handbook Series](/books/)
