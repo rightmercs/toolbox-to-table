@@ -17,7 +17,7 @@ A project required radiographic examination in accordance with the project requi
 
 During fabrication, a weld was selected for radiographic testing and submitted to the NDE contractor for examination.
 
-<img src="/toolbox-to-table/assets/field-lessons/the-weld-was-x-rayed-1.jpg" width="700">
+<img src="/assets/field-lessons/the-weld-was-x-rayed-1.jpg" width="700">
 
 *Threaded connection weld selected for radiographic examination.*
 
@@ -47,7 +47,7 @@ Nobody involved was attempting to bypass the requirement. The issue was a misund
 
 A review of the assembly showed that other welds were present that would have provided a more meaningful examination of the fabrication.
 
-<img src="/toolbox-to-table/assets/field-lessons/the-weld-was-x-rayed-2.jpg" width="700">
+<img src="/assets/field-lessons/the-weld-was-x-rayed-2.jpg" width="700">
 
 *Inspection personnel must verify that examination requirements are applied to the correct welds.*
 
@@ -59,7 +59,7 @@ One of the most valuable aspects of this situation was the quality of the report
 
 The radiography contractor documented exactly what was examined.
 
-<img src="/toolbox-to-table/assets/field-lessons/the-weld-was-x-rayed-3.jpg" width="700">
+<img src="/assets/field-lessons/the-weld-was-x-rayed-3.jpg" width="700">
 
 *Proper reporting documented exactly what was examined, allowing the issue to be identified during review.*
 
@@ -127,4 +127,4 @@ Understanding the difference is one of the most valuable skills an inspector can
 
 Field Lesson #003
 
-[← Back to Field Lessons](/toolbox-to-table/field-lessons/)
+[← Back to Field Lessons](/field-lessons/)
