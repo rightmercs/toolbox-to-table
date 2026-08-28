@@ -7,7 +7,7 @@ permalink: /books/pressure-vessel-inspector/
 
 # The Pressure Vessel Inspector
 
-![Pressure Vessel Inspector Cover](/toolbox-to-table/assets/book-covers/pressure-vessel-inspector-cover.jpg)
+![Pressure Vessel Inspector Cover](/assets/book-covers/pressure-vessel-inspector-cover.jpg)
 
 ## Description
 
@@ -30,4 +30,4 @@ The Pressure Vessel Inspector provides practical guidance for inspectors and qua
 
 ---
 
-[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
+[← Back to The Inspector's Handbook Series](/books/)
