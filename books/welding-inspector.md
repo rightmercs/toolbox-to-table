@@ -6,7 +6,7 @@ permalink: /books/welding-inspector/
 
 # The Welding Inspector
 
-![Welding Inspector Cover](/toolbox-to-table/assets/book-covers/welding-inspector-cover.jpg)
+![Welding Inspector Cover](/assets/book-covers/welding-inspector-cover.jpg)
 
 ## Description
 
@@ -29,4 +29,4 @@ The Welding Inspector is designed for inspectors, welders, QA/QC personnel, supe
 
 ---
 
-[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
+[← Back to The Inspector's Handbook Series](/books/)
