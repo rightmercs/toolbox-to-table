@@ -19,7 +19,7 @@ The Valve Inspection & Pressure Testing Workbook brings the working inputs, calc
 
 Professional Edition v1.1.4 is available now for $69.99.
 
-https://rightmercs.github.io/toolbox-to-table/products/valve-pressure-testing/
+https://toolboxtotable.com/products/valve-pressure-testing/
 
 This tool complements the governing standards and approved project documents; it does not replace them.
 
@@ -32,6 +32,6 @@ Valve inspectors and QA/QC professionals can now organize common valve testing i
 The Professional Edition includes a working API 598-oriented Quick Lookup, a Test Matrix for up to 100 entries, gauge-selection guidance, inspection notes, original API 6D and API 6A review workflows, and a six-page PDF Quick Start Guide.
 
 Version 1.1.4 is available now for $69.99:
-https://rightmercs.github.io/toolbox-to-table/products/valve-pressure-testing/
+https://toolboxtotable.com/products/valve-pressure-testing/
 
 Toolbox to Table — Professional inspection tools built for the field.
