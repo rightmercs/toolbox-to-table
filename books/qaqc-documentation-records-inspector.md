@@ -7,7 +7,7 @@ permalink: /books/qaqc-documentation-records-inspector/
 
 # The QA/QC Documentation and Records Inspector
 
-![QA/QC Documentation and Records Inspector Cover](/toolbox-to-table/assets/book-covers/qaqc-documentation-records-inspector-cover.jpg)
+![QA/QC Documentation and Records Inspector Cover](/assets/book-covers/qaqc-documentation-records-inspector-cover.jpg)
 
 ## Description
 
@@ -30,4 +30,4 @@ The QA/QC Documentation and Records Inspector provides practical guidance for pr
 
 ---
 
-[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
+[← Back to The Inspector's Handbook Series](/books/)
