@@ -7,7 +7,7 @@ permalink: /books/structural-steel-inspector/
 
 # The Structural Steel Inspector
 
-![Structural Steel Inspector Cover](/toolbox-to-table/assets/book-covers/structural-steel-inspector-cover.jpg)
+![Structural Steel Inspector Cover](/assets/book-covers/structural-steel-inspector-cover.jpg)
 
 ## Description
 
@@ -30,4 +30,4 @@ The Structural Steel Inspector provides practical guidance for inspectors and qu
 
 ---
 
-[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
+[← Back to The Inspector's Handbook Series](/books/)
