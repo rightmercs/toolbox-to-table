@@ -13,7 +13,7 @@ During hydrostatic testing, inspectors often expect pressure to remain stable th
 
 A hydrostatic pressure test was completed and the required test pressure was achieved. The system was isolated, and the hold period began.
 
-<img src="/toolbox-to-table/assets/field-lessons/hydrostatic-test-pressure-fluctuations-1.jpg" width="700">
+<img src="/assets/field-lessons/hydrostatic-test-pressure-fluctuations-1.jpg" width="700">
 
 *Hydrostatic testing of fabricated piping assemblies during field execution.*
 
@@ -41,7 +41,7 @@ The inspector should not assume the test is acceptable or unacceptable based on 
 
 The pressure chart showed a noticeable change during the test period.
 
-<img src="/toolbox-to-table/assets/field-lessons/hydrostatic-test-pressure-fluctuations-2.jpg" width="700">
+<img src="/assets/field-lessons/hydrostatic-test-pressure-fluctuations-2.jpg" width="700">
 
 *Pressure chart showing fluctuations observed during the test period.*
 
@@ -127,4 +127,4 @@ Understanding the factors that influence hydrostatic test pressure can help insp
 
 Field Lesson #002
 
-[← Back to Field Lessons](/toolbox-to-table/field-lessons/)
+[← Back to Field Lessons](/field-lessons/)
