@@ -7,7 +7,7 @@ permalink: /books/boiler-inspector/
 
 # The Boiler Inspector
 
-![Boiler Inspector Cover](/toolbox-to-table/assets/book-covers/boiler-inspector-cover.jpg)
+![Boiler Inspector Cover](/assets/book-covers/boiler-inspector-cover.jpg)
 
 ## Description
 
@@ -30,4 +30,4 @@ The Boiler Inspector provides practical field guidance for inspectors involved i
 
 ---
 
-[← Back to The Inspector's Handbook Series](/toolbox-to-table/books/)
+[← Back to The Inspector's Handbook Series](/books/)
