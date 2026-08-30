@@ -3,7 +3,7 @@ layout: platform
 title: Welder Qualification & Continuity System
 description: Create controlled WQR and WPQ records, generate branded qualification packages, and monitor process-specific continuity.
 permalink: /products/wqr-qualification-continuity/
-purchase_url: https://payhip.com/b/7UxbG
+purchase_url: /pages/enrollment-update/
 ---
 
 <section class="product-hero">
@@ -12,7 +12,7 @@ purchase_url: https://payhip.com/b/7UxbG
       <p class="eyebrow eyebrow--light"><span></span> Welding qualification system</p>
       <h1>Welder Qualification &amp; Continuity System</h1>
       <p class="hero-lead">Create controlled WQR/WPQ records, generate branded qualification packages, and monitor process-specific continuity from one professional system.</p>
-      <div class="button-row"><a class="button button--primary" href="https://payhip.com/b/7UxbG" target="_blank" rel="noopener noreferrer">Get the system - $149.99</a><a class="button button--secondary" href="#features">Explore features</a></div>
+      <div class="button-row"><a class="button button--primary" href="/pages/enrollment-update/" target="_blank" rel="noopener noreferrer">Get the system - $149.99</a><a class="button button--secondary" href="#features">Explore features</a></div>
       <p class="purchase-note">Professional Automated Edition v1.4.0 &middot; Secure Payhip checkout &middot; Immediate ZIP delivery</p>
     </div>
     <div class="product-summary-card"><span>TTT-WLD-003</span><strong>WQR / WPQ</strong><p>Qualification records, controlled outputs, registers, and continuity evidence.</p></div>
@@ -57,5 +57,5 @@ purchase_url: https://payhip.com/b/7UxbG
 
 <section class="section shell"><div class="section-heading"><div><p class="eyebrow"><span></span> Important scope</p><h2>A companion system&mdash;not a code replacement.</h2></div></div><p class="shop-note">Users must have authorized access to the governing standards and independently verify qualification and continuity decisions against the applicable edition, employer quality system, and project requirements. The standard purchase is an individual professional-use license.</p></section>
 
-<section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Available now</p><h2>Control qualification records and continuity in one system.</h2></div><a class="button button--primary" href="https://payhip.com/b/7UxbG" target="_blank" rel="noopener noreferrer">Buy on Payhip - $149.99</a></div></section>
+<section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Available now</p><h2>Control qualification records and continuity in one system.</h2></div><a class="button button--primary" href="/pages/enrollment-update/" target="_blank" rel="noopener noreferrer">Buy on Payhip - $149.99</a></div></section>
 

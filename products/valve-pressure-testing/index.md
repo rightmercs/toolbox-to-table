@@ -6,7 +6,7 @@ permalink: /products/valve-pressure-testing/
 image: /assets/products/valve-pressure-testing/quick-lookup.png
 product_id: TTT-VLV-001
 price: 39.00
-purchase_url: https://payhip.com/b/P7uaO
+purchase_url: /pages/enrollment-update/
 ---
 
 <section class="product-hero">
@@ -21,7 +21,7 @@ purchase_url: https://payhip.com/b/P7uaO
       </div>
       <div class="purchase-panel">
         <div><small>Individual license</small><strong>$69.99</strong></div>
-        <a class="button button--primary" href="https://payhip.com/b/P7uaO" target="_blank" rel="noopener noreferrer" aria-describedby="purchase-note">Get the workbook - $69.99</a>
+        <a class="button button--primary" href="/pages/enrollment-update/" target="_blank" rel="noopener noreferrer" aria-describedby="purchase-note">Get the workbook - $69.99</a>
       </div>
       <p class="purchase-note" id="purchase-note">Secure checkout and immediate digital delivery are provided by Payhip.</p>
     </div>
@@ -169,11 +169,11 @@ purchase_url: https://payhip.com/b/P7uaO
 <section class="cta-section">
   <div class="shell cta-inner">
     <div><p class="eyebrow eyebrow--light"><span></span> Ready for the next FAT</p><h2>Put the Valve Workbook to work.</h2></div>
-    <a class="button button--primary" href="https://payhip.com/b/P7uaO" target="_blank" rel="noopener noreferrer">Get the workbook - $69.99</a>
+    <a class="button button--primary" href="/pages/enrollment-update/" target="_blank" rel="noopener noreferrer">Get the workbook - $69.99</a>
   </div>
 </section>
 
 <div class="mobile-purchase-bar" aria-label="Mobile purchase bar">
   <div><span>Valve Workbook</span><strong>$69.99</strong></div>
-  <a href="https://payhip.com/b/P7uaO" target="_blank" rel="noopener noreferrer">Buy now</a>
+  <a href="/pages/enrollment-update/" target="_blank" rel="noopener noreferrer">Buy now</a>
 </div>

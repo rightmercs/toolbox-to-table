@@ -5,7 +5,7 @@ version: 1.0.1
 status: available
 price_usd: 69.99
 license: individual-user
-checkout_url: https://payhip.com/b/P7uaO
+checkout_url: /pages/enrollment-update/
 product_url: https://toolboxtotable.com/products/valve-pressure-testing/
 formats:
   - xlsx

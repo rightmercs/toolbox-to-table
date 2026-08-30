@@ -36,7 +36,7 @@ permalink: /licensing/
       <li><strong>Use:</strong> describe whether it is for a team, facility, company, project, or classroom.</li>
     </ol>
     <p>Use the seller-contact option on the Payhip product listing. Do not include payment-card information or confidential project data.</p>
-    <div class="button-row"><a class="button button--primary" href="https://payhip.com/b/P7uaO" target="_blank" rel="noopener noreferrer">Open Payhip to contact the seller</a><a class="button text-link" href="{{ '/products/valve-pressure-testing/' | relative_url }}">View the Valve Workbook</a></div>
+    <div class="button-row"><a class="button button--primary" href="/pages/enrollment-update/" target="_blank" rel="noopener noreferrer">Open Payhip to contact the seller</a><a class="button text-link" href="{{ '/products/valve-pressure-testing/' | relative_url }}">View the Valve Workbook</a></div>
   </div>
 </section>
 

@@ -5,7 +5,7 @@ description: An offline Excel system for equipment registration, calibration his
 permalink: /products/mte-control-system/
 image: /assets/products/mte-control-system/dashboard.png
 product_id: TTT-QA-001
-purchase_url: https://payhip.com/b/e2zEK
+purchase_url: /pages/enrollment-update/
 ---
 
 <section class="product-hero">
@@ -16,7 +16,7 @@ purchase_url: https://payhip.com/b/e2zEK
       <h1>Measuring &amp; Test Equipment Control System</h1>
       <p class="hero-lead">Control the complete calibration lifecycle for gauges, chart recorders, torque tools, temperature instruments, tape measures, calipers, ID/OD micrometers, electrical test equipment, reference standards, and other controlled assets.</p>
       <div class="product-badges"><span>Professional Edition v1.1.0</span><span>Offline Excel system</span><span>Full user manual included</span><span>$99.99</span></div>
-      <div class="button-row"><a class="button button--primary" href="https://payhip.com/b/e2zEK" target="_blank" rel="noopener noreferrer">Get the system — $99.99</a><a class="button button--secondary" href="#screenshots">See the system</a></div>
+      <div class="button-row"><a class="button button--primary" href="/pages/enrollment-update/" target="_blank" rel="noopener noreferrer">Get the system — $99.99</a><a class="button button--secondary" href="#screenshots">See the system</a></div>
       <p class="purchase-note">Immediate digital delivery through Payhip. Professional individual-use license included.</p>
     </div>
     <figure class="product-hero-image"><img src="{{ '/assets/products/mte-control-system/dashboard.png' | relative_url }}" alt="Measuring and Test Equipment Control System dashboard"><figcaption>Program status, recall alerts, open impact reviews, and direct workbook navigation.</figcaption></figure>
@@ -31,5 +31,5 @@ purchase_url: https://payhip.com/b/e2zEK
 
 <section class="section shell"><div class="section-heading"><div><p class="eyebrow"><span></span> Important scope</p><h2>A control-system companion, not a standards replacement.</h2></div></div><p class="shop-note">The system supports an organization's quality program. Users remain responsible for their approved calibration procedure, governing API/ASME requirements, contracts, manufacturer instructions, record-retention rules, and qualified technical decisions.</p></section>
 
-<section class="cta-section" id="release-status"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Available now</p><h2>Put your measuring and test equipment records under control.</h2></div><a class="button button--primary" href="https://payhip.com/b/e2zEK" target="_blank" rel="noopener noreferrer">Buy on Payhip — $99.99</a></div></section>
+<section class="cta-section" id="release-status"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Available now</p><h2>Put your measuring and test equipment records under control.</h2></div><a class="button button--primary" href="/pages/enrollment-update/" target="_blank" rel="noopener noreferrer">Buy on Payhip — $99.99</a></div></section>
 

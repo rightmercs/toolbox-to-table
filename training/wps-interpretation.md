@@ -65,14 +65,14 @@ permalink: /training/wps-interpretation/
       <p class="edition-label">Individual learning</p><h3>Individual Edition</h3><p>For inspectors, QA/QC personnel, welding personnel, and technical professionals completing controlled professional-development training.</p>
       <ul class="feature-list"><li>15 narrated lessons with controlled course access</li><li>Scenario-based practical discussion capstone</li><li>TTT-WPS-101 Final Examination administered through a controlled assessment system</li><li>50 questions · 80% required · maximum three attempts before review/retraining and administrator reauthorization</li><li>Student Field Pack and completion documentation</li></ul>
       <p class="release-status">$149 · Individual enrollment · 10 Professional Development Hours (PDHs)</p>
-      <a class="button button--primary" href="https://payhip.com/b/6ZNqO" target="_blank" rel="noopener noreferrer">Enroll — $149</a>
+      <a class="button button--primary" href="/pages/enrollment-update/" target="_blank" rel="noopener noreferrer">Enroll — $149</a>
       <p class="purchase-note">Acceptance of PDHs toward a license, certification, employer, or continuing-education requirement is determined by the applicable organization or authority.</p>
     </article>
     <article class="edition-card edition-card--featured">
       <p class="edition-label">Training delivery</p><h3>Instructor Course Package</h3><p>For qualified instructors, employers, training providers, and QA/QC organizations delivering and documenting the complete course.</p>
       <ul class="feature-list"><li>Licensed learner-delivery foundation</li><li>15 editable instructional PowerPoint masters</li><li>Instructor Master Manual, expected answers, and discussion guidance</li><li>Editable capstone, records, certificate, and controlled exam-administration materials</li><li>Delivery, three-attempt control, retraining/reauthorization, and certificate guidance</li></ul>
       <p class="release-status">$549.99 · One named instructor · Learner seats sold separately</p>
-      <a class="button button--primary" href="https://payhip.com/b/H4Osy" target="_blank" rel="noopener noreferrer">Get Instructor Edition — $549.99</a>
+      <a class="button button--primary" href="/pages/enrollment-update/" target="_blank" rel="noopener noreferrer">Get Instructor Edition — $549.99</a>
     </article>
   </div>
 </section>
@@ -89,4 +89,4 @@ permalink: /training/wps-interpretation/
   </div>
 </section>
 
-<section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Available now</p><h2>Start the individual course or equip one instructor to deliver it.</h2></div><a class="button button--primary" href="https://payhip.com/b/6ZNqO" target="_blank" rel="noopener noreferrer">Enroll in the course</a></div></section>
+<section class="cta-section"><div class="shell cta-inner"><div><p class="eyebrow eyebrow--light"><span></span> Available now</p><h2>Start the individual course or equip one instructor to deliver it.</h2></div><a class="button button--primary" href="/pages/enrollment-update/" target="_blank" rel="noopener noreferrer">Enroll in the course</a></div></section>
